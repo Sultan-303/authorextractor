@@ -1,0 +1,46 @@
+
+Malware & Threats
+Threat Actor Allegedly Selling Fortinet Firewall Zero-Day Exploit
+
+A threat actor claims to offer a zero-day exploit for an unauthenticated remote code execution vulnerability in Fortinet firewalls.
+
+By
+Ionut Arghire
+
+April 14, 2025
+
+        Flipboard
+
+        Reddit
+
+        Whatsapp
+
+        Email
+
+Fortinet patches	
+
+Just as Fortinet is warning of threat actors maintaining persistent access to FortiOS and FortiProxy devices affected by known vulnerabilities, a threat actor is offering to sell an alleged zero-day exploit targeting FortiGate firewalls.
+
+Over the weekend, cybersecurity firm ThreatMon warned on X of a post on a dark web forum, in which a threat actor claims that a zero-day in Fortinet’s FortiGate firewalls could be exploited remotely, without authentication, to execute arbitrary code.
+
+According to the individual, the exploit would provide full control over a vulnerable device, enabling the extraction of FortiOS configuration files and the sensitive information they store, including credentials, admin account permissions, firewall policies, two-factor authentication status, and more.
+
+SecurityWeek has emailed Fortinet for comment and will provide an update if necessary.
+
+The threat actor’s post landed at the same time Fortinet released a fresh advisory on the exploitation of known vulnerabilities in its FortiOS and FortiProxy products.
+
+According to Fortinet, at least three security defects for which patches have been released — CVE-2022-42475, CVE-2023-27997, and CVE-2024-21762 — have been exploited in global attacks to “implement read-only access to vulnerable FortiGate devices.”
+
+By “creating a symbolic link connecting the user filesystem and the root filesystem in a folder used to serve language files for the SSL-VPN,” the attackers evade detection and ensured that, even after patches were deployed, they maintained access to the compromised devices.
+
+Only configurations with SSL-VPN enabled have been affected, and Fortinet has deployed new mitigations, including an AV/IPS signature and modifications in recent software releases to detect and clean the symbolic link, and communication with the potentially impacted customers.
+
+Fortinet and the US cybersecurity agency CISA urge administrators to update their firewalls to FortiOS versions 7.6.2, 7.4.7, 7.2.11, 7.0.17, or 6.4.16, which remove the malicious symbolic link.
+
+Related: Scattered Spider Still Active, EncryptHub Unmasked, Rydox Extraditions
+
+Related: Fortinet Patches Critical FortiSwitch Vulnerability
+
+Related: Fortinet Vulnerabilities Exploited in ‘SuperBlack’ Ransomware Attacks
+
+Related: Ivanti, Fortinet Patch Remote Code Execution Vulnerabilities 

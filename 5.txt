@@ -1,0 +1,67 @@
+Webinar: Strategies for Addressing Zero-Day Vulnerabilities
+By Matt High
+April 10, 2025
+5 mins
+Share
+The Zero Days in Embedded Systems: Quantifying & Mitigating Hidden Risks to Critical Infrastructure webinar will offer practical insight and cutting-edge research
+In an exclusive webinar, Runsafe Security will discuss key strategies for addressing the challenge of zero-day vulnerabilities in embedded systems
+
+Zero-day vulnerabilities in embedded software – a previously unknown flaw that hackers can exploit before vendors or developers are aware or can release a patch – pose significant risks to critical infrastructure.
+
+This can include potential unauthorised access, manipulation of controls and the disruption of essential or critical services.
+
+These dangers, combined with a rapidly evolving and increasingly complex threat landscape, means understanding and mitigating exposure is more crucial than ever for product owners and security teams. 
+Addressing zero-day vulnerabilities
+
+An upcoming webinar led by embedded software security leader Runsafe Security will discuss this challenging operating environment, presenting cutting-edge research and practical solutions to address the growing challenge of zero-day vulnerabilities in embedded systems.
+
+During the 'Zero Days in Embedded Systems: Quantifying & Mitigating Hidden Risks to Critical Infrastructure' webinar, an expert panel consisting of Runsafe Security’s Founder & CEO Joe Saunders and EVP and Chief Strategy Officer Doug Britton, together with Ulf Kargén, Assistant Professor at Linköping University will explore several key themes, including: 
+
+    The impact of zero-day exploits on critical infrastructure, supported by key statistics and real-world scenarios.
+    Advanced techniques for anticipating, quantifying and reducing zero day risks in embedded software.
+    CReASE (Code Reuse Attack Surface Estimation), a novel methodology for measuring “Zero-Day Risk” and identifying exploit pathways like Return-Oriented Programming (ROP).
+    Mitigation strategies to prevent the exploit of memory-based vulnerabilities and zero days.
+
+Whether you manage SCADA systems, industrial control networks or other critical infrastructure, this webinar will equip you with strategies to protect your most valuable systems by minimising the impact of future zero-day exploits.
+
+Join our expert panel on 24 April as we explore new strategies for embedded system security and empower you to safeguard your organisation’s critical assets.
+
+To register for the webinar, click here. 
+Meet the speakers
+
+Joe Saunders, Founder & CEO, RunSafe Security
+Joe Saunders, Founder and CEO at Runsafe Security
+
+Joe Saunders is the Founder and CEO of RunSafe Security, a pioneer of cyberhardening technology for embedded systems and devices as well as industrial control systems. 
+
+A 25-year veteran of many national security and cybersecurity roles, Joe is on a personal mission to transform cybersecurity by challenging outdated assumptions and disrupting the economics that motivate hackers to attack. 
+
+Over his career, Joe has built and scaled technology into companies servicing both private sector and public sector security needs. 
+
+Joe is a frequently sought-after speaker and panelist. He is regularly asked to author articles on cybersecurity issues related to critical infrastructure, especially on topics relevant to supply chain risk mitigation, container security and connected devices.
+
+Doug Britton, EVP and Chief Strategy Officer, RunSafe Security​​​​​​​
+Doug Britton, EVP and Chief Strategy Officer at RunSafe Security
+
+Doug Britton is EVP, Chief Strategy Officer and a board member at RunSafe Security, where he drives technology strategy, patent development and security research. 
+
+Previously, he founded Kaprica Security, later selling its Tachyon business to Samsung and led security research at Lockheed Martin and SAIC. 
+
+A trained computer scientist, Doug began at the National Center for Supercomputing Applications before serving as a Russian Linguist in the US Army. He holds an MBA from the University of Maryland and mentors entrepreneurs and students.
+
+Ulf Kargén, Assistant Professor at Linköping University​​​​​​​
+Ulf Kargén, Assistant Professor at Linköping University
+
+Ulf Kargén is currently an assistant professor at Linköping University, Sweden. He received his PhD in computer science on the topic of binary-code analysis in 2019. 
+
+Ulf’s research interests lie within the areas of software and system security and software testing, with a particular emphasis on programme analysis of low-level code. 
+
+He has more than 10 years of experience teaching university courses in cybersecurity and speaking at academic conferences. Ulf has authored several highly-cited works on security testing and programme analysis. He is currently engaged in research projects within cybersecurity and safety testing of autonomous vehicles.
+
+To register for the webinar, click here. 
+
+Explore the latest edition of Cyber Magazine and be part of the conversation at our global conference series, Tech & AI LIVE and Cyber LIVE.
+
+Discover all our upcoming events and secure your tickets today.
+
+Cyber Magazine is a BizClik brand

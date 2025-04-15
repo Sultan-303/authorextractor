@@ -1,0 +1,87 @@
+Inside the UK Government's Cyber Security Breaches Survey
+By Sophie Rice
+April 11, 2025
+6 mins
+Share
+The Department for Science, Innovation and Technology has released The Cyber Security Breaches Survey 2025 (Credit: freepik)
+The Department for Science, Innovation and Technology explores how the UK’s cyber resilience is facing new pressure as phishing and ransomware evolve
+
+Aiming to equip government and industry leaders with the insight needed to build more cyber-resilient organisations across the UK, The Department for Science, Innovation and Technology has released The Cyber Security Breaches Survey 2025.
+
+The report offers a detailed overview of the cybersecurity landscape for UK businesses, detailing approaches to risk management, trends in cybersecurity awareness and the evolving threat of cybercrime.
+
+While the overall number of reported cybersecurity breaches among UK businesses has declined, phishing remains the dominant threat and organisations still lack adequate risk management. 
+
+Nathaniel Jones, VP of Security & AI Strategy at Darktrace, explains the importance of this report: "While it is encouraging to see an increase in the number of businesses taking action to minimise risks – including risk assessments, creating formal policies and taking out cyber insurance policies – the threat is only increasing.
+Nathaniel Jones, VP of Security & AI Strategy at Darktrace (Credit: Darktrace)
+
+“The rising use of AI by attackers combined with the continued popularity of cybercrime as-a-service (CaaS) ecosystems, that provide attackers with pre-made malicious tools and services, is increasing the speed, scale and sophistication of cyber-attacks.” 
+Breaches and attacks: a changing landscape
+
+The report states that there has been an overall decline in reported breaches, with 43% of businesses having experienced a cybersecurity attack or breach in the past year (this is down from 50% in 2024).
+
+Despite micro and small businesses experiencing a significant decline in breaches, large firms remain heavily targeted (74%).
+
+Phishing attacks remain the most common and disruptive threat, with 85% of businesses experiencing a breach or attack. Organisations noted that phishing is growing more sophisticated, including impersonation using AI.
+
+The proportion of businesses experiencing any negative outcomes (16%) remains similar to 2024 (13%).
+
+However, specific consequences have worsened, with temporary loss of access to files or networks rising from 4% to 7% in businesses.
+
+The fact that overall breach rates are falling and the complexity and cost of incidents are increasing highlights how the threat landscape is experiencing significant change. Larger organisations remain the primary targets and fewer (but more impactful) attacks are becoming the norm.
+
+Nathaniel continues: “In today’s evolving cyber threat landscape, it’s therefore not a matter of if an organisation will face a cyber incident, but when. When you get knocked down, how quick can you get back up? That’s what we mean by cyber resilience. Preparing in advance is essential to put yourself in the strongest position for when a breach occurs, and a proactive approach is by far the best form of defence.”
+Credit: UK Government (gov.uk)
+Cyber hygiene 
+
+The report paints a mixed picture when it comes to cyber hygiene among UK businesses.
+
+The uptake of cyber insurance (62% up from 49% in 2024) and cyber security risk assessments (48% up from 41% in 2024) improved among small businesses. 
+
+Formal cybersecurity policies also grew among small businesses, rising from 51% in 2024 to 59% in 2025. 
+
+This rise in cyber hygiene practices among small businesses highlights how these organisations are becoming more structured and proactive in their cyber risk management.
+
+Most businesses have embraced basic cyber defences:
+
+    Malware protection (77%)
+    Password policies (73%)
+    Firewalls (72%)
+    Cloud backups (71%)
+    Restricted admin rights (68%)
+
+However, more advanced measures remain forgotten, with VPNs for remote access standing at 31% and two-factor authentication at 40%.
+
+While basic cyber hygiene is beginning to improve, businesses must invest in consistent training and sophisticated measures to ensure they remain ahead of evolving threats. 
+Credit: UK Government (gov.uk)
+Cybercrime and fraud
+
+The report found that 20% of businesses experienced cyber crime in the past year (around 283,000 businesses).
+
+This figure remains similar to 2024 (22%), highlighting that cyber crime is a prevalent threat. 
+
+Among those businesses that experienced any attack or breach, nearly half (46% of businesses) were cyber crime-related. 
+
+The report highlights that risk increases with organisational size and income. Just over half (52%) of large businesses experienced cyber crime, with the figure slightly falling for medium businesses (43%). This figure significantly falls for micro businesses (18%). 
+
+Among those affected by cyber crime, phishing remains the most common threat, with 93% of businesses affected. 
+
+In the last 12 months, UK businesses have experienced around 8.58 million cyber crimes of all types (this includes 680,000 non-phishing cyber crimes).
+
+The mean cost per business for cyber crime (non-phishing cyber crime) stood at £990 (US$1,300), including £0 responses.
+
+Ransomware has doubled in prevalence year-on-year, rising from under 0.5% of businesses in 2024 to 1% in 2025. This significant increase highlights the rise in boldness and sophistication among threat actors. 
+
+The report highlights the high level of repeat victimisation. Those businesses that experienced cyber crime felt the effects of 30 incidents (on average) over the past year, with a median being 4 incidents. 
+
+Nathaniel adds: “Resilience is the name of the game, and organisations need full visibility across their digital ecosystem to identify vulnerabilities, break down silos and mitigate threats before an attack happens. AI and machine learning are essential ingredients in this mix. These technologies help free up security teams from time-consuming tasks allowing them to focus on what really matters: keeping businesses and people safe.”
+
+The report warns that cyber crime is highly prevalent, with businesses experiencing multiple repeat incidents. 
+
+Ransomware is increasing, costs continue to vary widely and larger businesses face disproportionate exposure. This highlights the need for better reporting frameworks and stronger crime prevention to enhance resilience across all businesses. 
+
+Explore the latest edition of Cyber Magazine and be part of the conversation at our global conference series, Tech & AI LIVE and Cyber LIVE.
+
+Discover all our upcoming events and secure your tickets today. 
+
+Cyber Magazine is a BizClik brand

@@ -1,0 +1,90 @@
+Behind Palo Alto Networks’ Success With Google Cloud
+By Sophie Rice
+April 10, 2025
+6 mins
+Share
+Palo Alto Networks' office in Singapore (Credit: Palto Alto Networks)
+Palo Alto Networks has exceeded $1.5bn in cumulative sales through Google Cloud Marketplace as of April 2025
+
+Palo Alto Networks has reached a significant milestone in its mission to secure cloud and AI adoption globally – exceeding US$1.5bn in cumulative sales through Google Cloud Marketplace.
+
+The extensive collaboration supports customers to run, build and secure AI-enhanced cloud infrastructure and applications with end-to-end protection through 75 solution integrations from jointly engineered offerings.
+
+This milestone demonstrates the rise in demand for AI-led cybersecurity solutions as organisations adopt cloud-first strategies.
+
+Kristy Friedrichs, Chief Partnerships Officer at Palo Alto Networks, explains: “With Google Cloud, we combine their AI/ML capabilities with Palo Alto Networks industry-leading security platforms to provide a comprehensive suite of AI-driven security offerings.
+Kristy Friedrichs, Chief Partnerships Officer at Palo Alto Networks
+
+“This deep collaboration helps customers achieve their AI and digital innovation objectives while mitigating associated risks,
+
+“Surpassing $1.5 billion in sales on Google Cloud Marketplace signifies the demand for innovative security solutions as organisations prioritise cloud-first strategies.”
+How is this relevant to the current market?
+
+Organisations are being exposed to new and evolving security threats, especially around AI models and infrastructure, due to the rapid growth of AI adoption.
+
+This partnership between Palo Alto Networks and Google Cloud will help tackle those risks by integrating AI-native security solutions into cloud environments. This will help businesses to apply zero-trust policies to AI workloads, detect and respond to AI-specific threats and protect sensitive training data and model operations.
+
+By offering 31 listings directly on Google Cloud Marketplace, Palo Alto Networks simplifies procurement, management and deployment. This marketplace model allows enterprises to offer greater speed and flexibility alongside minimal friction.
+
+Security sprawl is becoming a prominent issue for many businesses.
+
+Palo Alto Networks approach to platformisation provides an AI-led, unified security stack that spans cloud, network and operations to tackle this challenge.
+
+As the market continues to be redefined by multi-cloud environments, AI disruption and heightened threat activity, the Google Cloud – Palo Alto Networks partnership showcases the transformative impact that combining scalability, innovation and trust can have on the cyber landscape. 
+Youtube Placeholder
+Product and technology focus
+
+Palo Alto Networks and Google Cloud offer a wide range of cloud-native, AI-powered security technologies and products. 
+
+These are all available via the Google Cloud Marketplace and remain integrated in the Google Cloud ecosystem.
+
+Palo Alto Networks helps to address changing customer needs by offering 31 Google Cloud Marketplace listings, supported by 20 technical documents and reference architectures.
+
+Customers can apply granular security policies based on a zero-trust architecture. This  helps secure their Google Cloud environment and AI applications due to the integration of Palo Alto Networks AI-Runtime Security and VM-Series Virtual Firewalls with Google Cloud Network Security Integration.
+
+Kevin Ichhpurani, President, Global Partner Ecosystem at Google Cloud, explains: "We're proud to honor Palo Alto Networks as our Artificial Intelligence Partner of the Year for Global Technology,
+Kevin Ichhpurani, President, Global Partner Ecosystem at Google Cloud
+
+"By combining Google Cloud's AI technology with their security expertise, Palo Alto Networks has developed comprehensive solutions that address evolving security risks and help customers stay ahead of threats with solutions available on Google Cloud Marketplace."
+Google Next
+
+Palo Alto Networks received five 2025 Google Cloud Partner of the Year awards at Google Next. 
+
+These awards demonstrate the impact this partnership has had in helping customers access comprehensive cloud-native security solutions through AI-led growth and the power of the cloud.
+
+Palo Alto Networks received: 
+
+- 2025 Google Cloud Artificial Intelligence — Global Technology
+- 2025 Google Cloud Artificial Intelligence — Security
+- 2025 Google Cloud Security — Infrastructure Protection
+- 2025 Google Cloud Security — Marketplace
+- 2025 Google Cloud Technology — Marketplace
+
+At Google Next, Google announced several security developments that will support organisations to embrace unified and proactive cyber defense.
+
+Google integrates its threat intelligence, cloud security and security operations in its new converged security solution - Google Unified Security. This empowers organisations to respond and detect cyber attacks through an effective AI-powered data fabric.
+
+A new security agent in Google Threat Intelligence offers faster insights into emerging threats by accelerating malware analysis, while a new security agent in Google Security Operations automates alert triage to reduce the manual workload for security analysts who struggle with many alert volumes.
+
+Google announced further key cyber advancements at Google Next, including:
+
+    New Mandiant Threat Defense service within Google Security Operations
+    Mandiant Retainer now offers more flexibility
+    New Data Security Posture Management (DSPM) capabilities in Security Command Center
+    Google Cloud’s Risk Protection Program now includes Chubb and Beazley 
+    Chrome Enterprise now includes data masking, phishing protection and extended browsing protections for Android
+
+Google Cloud Next 2025 (Credit: Google and Google Blog)
+How does this position Palo Alto Networks in the broader cybersecurity ecosystem?
+
+Palo Alto Networks’ partnership with Google Cloud will secure its position as a leader in cloud-native, AI-led cybersecurity.
+
+Not only does the integration of complex products like AI-Runtime Security and Prisma Cloud reinforce its role as a platform-first security provider, but aligning with Google Cloud highlights the company’s ability to secure multi-cloud, complex and AI-enhanced environments at scale.
+
+Palo Alto Networks remains a strategic and trusted partner capable of addressing emerging threats and simplifying security. Its immense recognition through five Google Cloud Partner of the Year awards continues to validate its leadership in infrastructure security and AI.
+
+Explore the latest edition of Cyber Magazine and be part of the conversation at our global conference series, Tech & AI LIVE and Cyber LIVE.
+
+Discover all our upcoming events and secure your tickets today. 
+
+Cyber Magazine is a BizClik brand

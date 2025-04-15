@@ -1,0 +1,2073 @@
+ Cyberbullying on Social Media: Definitions, Prevalence, and Impact Challenges
+ Geraldine Ray, Christopher D McDermott, Mathew Nicho
+Journal of Cybersecurity, Volume 10, Issue 1, 2024, tyae026, https://doi.org/10.1093/cybsec/tyae026
+Published:
+19 December 2024
+Article history
+
+    pdfPDF
+    Split View
+    Cite
+    Permissions Icon Permissions
+    Share Icon Share
+
+Abstract
+
+Cyberbullying on social media is a significant public health concern. This paper systematically reviews the existing literature on cyberbullying to provide a clearer understanding of how it is defined and reported in terms of prevalence and impact. Utilizing the PRISMA search strategy, we examined 71 papers published from 2007 to 2022, offering a comprehensive synthesis of the field’s current understanding. Our findings highlight notable inconsistencies in the definition of cyberbullying across studies, underlining a critical need for a standardized conceptual framework. Additionally, while cyberbullying is shown to be highly prevalent among personalities exhibiting traits of Machiavellianism, psychopathy, and narcissism, our review identifies a crucial research gap: the underexploration of cyberbullying among adult populations. This review synthesizes the breadth of research on cyberbullying and highlights gaps in the existing literature. We have included our proposed standardized definition of cyberbullying.
+Issue Section:
+Review Article
+Introduction
+
+The Internet continues to influence and enhance many aspects of daily life. Faster connectivity, increased communication, and access to broader libraries of entertainment are all considered positive contributions to the user experience. However, there is growing recognition that the same technologies can also provide an opportunity to amplify negative behaviours online [1, 2], with social media often used for engaging in antisocial activities. Consequently, cyberbullying on social media has emerged as a growing widespread problem due to increased likelihood of encountering strangers online [3–6] with hidden ulterior motives or tormenting behaviours that lead to bullying, harassing, or intimidation against an individual or group [ 7–10]. Existing literature has highlighted the psychological and physical impact of this negative behaviour [11–17] with increased depression, anxiety, substance abuse, self-harm, and suicidal thoughts all shown to occur [4, 17–22]. Several factors appear to contribute to the prevalence of cyberbullying on social media, including anonymity, easy access to technology, inadequate awareness of the consequences of online behaviour, and the necessity for effective interventions to prevent or mitigate cyberbullying [3, 23–25]. These contributing factors can manifest in a range of cyberbullying-related behaviours, in particular, flaming [24, 26], trolling [7, 27], and harassment [8, 25, 26], each with its distinct characteristics and impact on the victim. In addition, [3, 5, 28] examined the problem of anonymity on social network sites where perpetrators can masquerade as different fake personas [26, 28] with multiple online accounts to target their victims. Adolescents and young adults have been observed to be the most at-risk groups [18, 21, 29, 30], with females reporting higher victimization rates than males [8, 9, 31]. Moreover, female victims are more likely to experience social anxiety and sleep problems, while male victims are more likely to engage in antisocial behaviours due to previous negative experiences [19, 31]. Recent studies have also highlighted the prevalence of cyberbullying among adults and its negative impact on mental health [5, 32, 33]. Despite a growing body of knowledge, cyberbullying limitations exist beyond the use of self-reported data, small sample sizes, and a narrow focus on specific social media platforms [7, 32]. Notably, there appears to be a lack of consistency when defining cyberbullying, leading to an array of confusion in the findings [8, 10, 23, 24, 34, 35]. In addition, there appears to be a lack of consensus regarding the extent and direction of the association between social media use and mental health [18]. Some studies [4, 11, 28, 30, 36] suggest there is a negative relationship between mental health, well-being, and social media, whilst other research [37, 38] reports a lack of association. As such, it is agreed that future research should focus on examining the impact of cyberbullying on social network users [30, 32, 34, 36, 39–44] and aid in the development of effective cyberbullying prevention and intervention strategies. This systematic review presents a comprehensive synthesis of the current literature on cyberbullying, offering a detailed overview of its definition, reported prevalence, and impact. Crucially, it highlights two significant gaps in the existing research, first, it reveals that cyberbullying amongst adults is an under-researched demographic, suggesting a need for more focused studies in this area. Second, it identifies notable inconsistencies in the definition of cyberbullying across the literature, indicating a pressing need for a unified conceptual framework. This work not only consolidates the diverse strands of research in cyberbullying but also sets the stage for more targeted and cohesive future studies.
+Organization of the review
+
+In the Methods section, we provide an overview of our methodology, including search strategies, inclusion and exclusion criteria, search results, and data extraction. In the Findings section, we outline our analysis into three subsections: definitions, prevalence, and impact. First, we explore how cyberbullying is defined in the literature in section Defining cyberbullying, considering the core elements that have been studied. Next in section Prevalence of cyberbullying on social media, the occurance of cyberbullying on social media is explored in terms of victim vulnerability and the influence of personality traits on the likelihood of engagement. Finally, the impact on mental health and well-being is explored in section Impact of cyberbullying, focusing on the psychological and emotional effects. Finally, in the Discussion section we discuss our findings and provide concluding remarks and suggestions for future research in the Conclusion section.
+Methods
+
+We undertook a systematic review exploring cyberbullying on social media, meticulously evaluating relevant literature and following the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses. The research questions aimed to provide a broad scope of the current understanding of cyberbullying definitions, prevalence, and the impact of cyberbullying on social media on children, adolescents, and adults. Moreover, (see Fig. 5) which illustrates the three investigation phases (definitions, prevalence, and impact) that visually represents the systematic linkage between the reviewed literature and the guiding research questions.
+Research questions
+
+The research questions in our study were derived through careful consideration of the gaps and needs in the existing literature on cyberbullying, we aimed to address the main aspects of cyberbullying namely, definitions, contributing factors, personality traits, and the impact on individuals.
+
+    How is cyberbullying defined in the literature?
+
+    What factors contribute to cyberbullying, and how can they be measured?
+
+    What is the impact of personality traits on the likelihood of engaging in or being victimized by cyberbullying?
+
+    How do direct involvement and indirect experiences influence the prevalence of cyberbullying?
+
+    How does cyberbullying affect individuals, and what measures can be taken to mitigate its effects?
+
+In this paper, we explored how cyberbullying is defined, identified prevalence rates, and the impact on individuals. This has been structured across several key sections, each addressing a specific research question. The definition of cyberbullying in the literature is thoroughly examined in Section Defining cyberbullying, providing a foundational understanding of the term. Sections Core elements of cyberbullying and Cyberbullying measurements delve into the contributing factors to cyberbullying and the methodologies for their measurement, offering a detailed analysis of the elements that underpin this phenomenon. The impact of personality traits on the likelihood of both engaging in and being victimized by cyberbullying is explored in Sections Susceptibility to cyberbullying and Personality traits and cyberbullying , highlighting the role of individual differences in these dynamics. Section Online active and passive participation focuses on how online passive and active participation involvement and experiences influence the prevalence of cyberbullying, shedding light on the broader societal implications. Finally, the effects of cyberbullying on individuals and potential mitigation strategies are comprehensively covered in Sections Interventions and prevention, Cyberbullying victim impact , and Impact by demographic, providing insights into the personal impact of cyberbullying and the measures that can be taken to combat it.
+Search strategies
+
+The following databases were used to identify articles: Scopus, Google Scholar, and Science Direct. Manual searches were performed on all databases, and some advanced settings were selected from the databases. The following keywords were applied to the three databases, ‘Cyberbullying’, ‘Cyberbullying Definitions’, ‘Cyberbullying’ AND Social Media, ‘Cyberbullying AND Social Media AND Children OR Adolescents’, and ‘Cyberbullying AND Social Media AND Adults OR Young Adults’, ‘Cyberbullying AND Social Media AND Children OR Adolescents’ with the following excluded words, ‘Machine-Learning-Artificial-Intelligence-Sexual’, ‘Cyberbullying AND Social Media AND Adults OR Young Adults AND Machine-Learning-Artificial-Intelligence-Sexual’. Articles were searched and screened based on research conducted from any time or the last two decades, the last five years of research the previous year 2021 and the current year 2022 at the time of formulating this paper. Articles from the following fields of study, psychology, social sciences, and computing science were selected. Articles were also screened for study relevance, abstract, methods, discussion, and findings (see Fig. 1).
+"A PRISMA flow diagram illustrating the study selection process for a systematic literature review. The diagraph shows the number of records identified, screened, excluded, and included for the review".
+Figure 1.
+
+PRISMA flow diagram of the study selection process. Adapted from the PRISMA 2020 flow diagram template 45.
+Open in new tabDownload slide
+Inclusion and exclusion criteria
+
+Inclusion criteria: there was no limit in terms of the type of papers to be reviewed therefore, we included review papers, empirical studies, case studies, and theoretical papers. Articles reviewed in this paper were screened and selected using the following criteria: (a) not limited by age, included studies, and measurements about children, adolescents, young adults, and adults. (b) Only assessed bullying behaviours, including traditional physical and psychological behaviours. (c) Assessed the impact of cyberbullying and cyber victimization, including psychological and physical behaviours. (d) Examined cyberbullying online participation behaviours. (e) Only assessed the prevalence/societal problem of cyberbullying on social media. (f) Articles that were published using the English language. (g) Were online journals, articles, literature reviews, systematic, and meta-analyses. Exclusion criteria: literature was excluded if criteria stated previously were not met and if: (a) explored cyberbullying with machine learning or artificial intelligence. (b) Explicitly explored sexual cyberbullying. (c) The literature was not open-access and was not available to view/download (see Table 1).
+
+				
+				
+				
+				
+				
+
+Table 1.
+Open in new tab
+
+Article distribution across databases.
+Database	Screen	Rejecta/reviewb	Exclude	Select
+Scopus	2266	1319/947	928	19
+Google Scholar	1279	430/849	811	38
+Science Direct	972	414/558	544	14
+Total	4517	2163/2354	2283	71
+
+aRejected immediately as not relevant.
+
+bReviewed for relevance to study.
+Search results and data extraction
+
+The literature search was conducted from September 2022 to December 2022 using the following databases: Scopus, Google Scholar, and Science Direct. In total, over 4000 articles were identified through database searching. Three hundred and eighty-nine articles were included based on the inclusion criteria and their findings that centre on the subject of definitions and cyberbullying via social media. Articles were screened based on the inclusion/exclusion criteria and their findings centre on the subject of cyberbullying definitions and cyberbullying via social media. To ensure validity, papers were also screened by Christopher D. McDermott (second author) and Mathew Nicho (third author). Any discrepancies found were discussed and resolved through consensus. As a result, we carefully reviewed and analysed a total of 71 articles that made it to the final selection. A data extraction Excel form was used to extract relevant information from the selected articles, including author(s), year of publication, region, sample type, journal, article type, and methods (see Table 2) for a summary of these findings.
+
+		
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+
+Table 2.
+Open in new tab
+
+Summary of prior research in cyberbullying between 2007 and 2022.
+ 	Study details	Methodology
+ 	Year	Author(s)	Sample (n)a	Regionb	Study	Method 
+Children (⁠
+10 years)						
+	2013	Sabella et al. [46]	250a	USA	Review	Descriptive/survey
+	2014	Volk et al. [10]	136b	Global	Theoretical	Critical review
+	2018	Cohen-Almagor [28]	186b	Global	Review	Descriptive
+	2022	Quandt et al. [47]	50b	Global	Review	Descriptive
+Adolescents (10–17 years)						
+	2013	Slonje et al. [48]	9a	Sweden	Empirical	Interview
+		Olweus [35]	440 000a	USA	Case Study	Positional
+		Berne et al. [23]	61a	Global	Review	Systematic
+	2014	Bastiaensens et al. [49]	453a	Belgium	Empirical	Survey
+		Nixon [21]	123b	Global	Review	Descriptive
+	2015	Aboujaoude et al. [8]	90b	Global	Review	Systematic
+		Patchin and Hinduja [24]	15 000a	USA	Empirical	Survey
+		Zych et al. [40]	309b	Global	Review	Systematic
+		Raskauskas and Huynh [44]	19b	Global	Review	Systematic
+		Cao and Lin [31]	622a	USA	Empirical	Survey
+		Zych et al. [40]	66b	Global	Review	Systematic
+	2016	El Asam and Samara [50]	129b	UK	Review	Policy
+	2017	Watts et al. [26]	54b	Global	Review	Descriptive
+		Ho et al. [12]	1424a	Singapore	Empirical	Survey
+	2018	Schultze-Krumbholz et al. [51]	849a	German	Empirical	Survey
+		Barlett et al. [4]	53b	Global	Review	Descriptive
+		Müller et al. [38]	1199a	German	Empirical	Survey
+		Olweus and Limber [35]	447 000a	USA	Case Study	Positional
+	2019	Sedgwick et al. [29]	9b	Global	Review	Systematic
+		Brandau et al. [18]	14b	Global	Review	Systematic
+		Scott and Woods [52]	91b	Global	Review	Descriptive
+	2020	Keles et al. [17]	13b	Global	Review	Systematic
+		Longobardi [53]	345a	Italy	Empirical	Survey
+		Orben [39]	23b	Global	Review	Systematic
+	2021	Lo Cricchio et al. [54]	41b	Global	Review	Systematic
+		Cataldo et al. [19]	44b	Global	Review	Systematic
+		Menin et al. [55]	899a	Italy	Empirical	Survey
+	2022	Floros and Mylona [36]	32b	Global	Review	Systematic
+Young adults (18–29 years)						
+	2013	Daine et al. [20]	16b	Global	Review	Systematic
+	2014	Vivolo-kantor et al. [56]	41b	Global	Review	Systematic
+	2015	Foody et al. [57]	19b	Global	Review	Systematic
+		Peluchette et al. [58]	532a	Global	Empirical	Survey
+		Washington [25]	29b	Global	Review	Descriptive
+	2016	Gahagan et al. [59]	196a	USA	Empirical	Survey
+		Garett et al. [16]	22b	Global	Review	Systematic
+		Rosenthal et al. [60]	264a	USA	Empirical	Survey
+	2018	Allen and Phillips [3]	42/14a	USA	Empirical	Survey/interview
+	2019	Ghaiumy Anaraky et al. [37]	10a	USA	Empirical	Interview
+	2020	Abaido [61]	200a	UAE	Empirical	Survey
+	2022	Alavi et al. [7]	323a	Malaysia	Empirical	Survey
+Adults (30 years
+⁠)						
+	2019	Boland and Anderson [62]	238a	Global	Empirical	Survey
+		You and Lee [30]	253a	Global	Empirical	Simulation
+	2022	Li and Peng [34]	928a	China	Empirical	Survey
+		Gajda et al. [42]	251a	Global	Empirical	Survey
+Unspecified (or n/s)						
+	2007	Wilkins et al. [2]	22b	Global	Review	Descriptive
+	2013	Notar et al. [63]	71b	Global	Review	Descriptive
+	2014	Dredge et al. [64]	25a	Australia	Empirical	Interview
+	2015	Cortis and Handschuh [65]	1544a	Global	Empirical	Statistical
+	2016	Fayaz and Khalique [66]	11b	Global	Review	Positional
+		Robinson et al. [67]	30b	Global	Review	Systematic
+	2017	Squicciarini et al. [1]	112b	Global	Review	Descriptive
+	2018	Ferrara et al. [15]	17b	Global	Review	Positional
+		Marino et al. [33]	23b	Global	Review	Systematic
+	2020	Twenge [22]	67b	Global	Review	Descriptive
+		Oksanen et al. [13]	563/1817a	Finland	Empirical	Survey
+		Chun et al. [9]	64b	Global	Review	Systematic
+	2021	Dynel [68]	83b	Global	Review	Positional
+		Oladimeji and Kyobe [14]	75b	Global	Theoretical	Critical review
+		Cunningham et al. [32]	62b	Global	Review	Meta-analysis
+		Polanco-Levićan and Salvo-Garrido [6]	9b	Global	Review	Systematic
+		Schade et al. [69]	749a	Germany	Empirical	Survey
+		Zhao and Yu [70]	38b	Global	Review	Meta-analysis
+		Chan et al. [5]	56b	Global	Review	Systematic
+		Nesi et al. [71]	61b	Global	Review	Systematic
+		Giumetti and Kowalski [11]	61b	Global	Review	Positional
+		Olckers and Hattingh [27]	30a	Global	Review	Systematic
+		Gu et al. [43]	692a	China	Empirical	Survey
+
+an  
+
+count, where (a) participants, and (b) sources.
+
+bMultiple regions or not specified (global assumed).
+Findings
+Descriptive statistics
+
+A meta-analysis of 71 papers spanning a period from 2007 to 2022 is summarized (see Table 3). The data reveals a diversified representation of age groups, regions, and methods employed in the studies. The mean year of publication is approximately 2017 (SD = 3.16), indicating a recent concentration of research activity. The sample sizes exhibit a wide range, with an average of ~12 939 participants or sources per paper. However, a high standard deviation of 73 849 underscores a substantial disparity in sample/source sizes across different studies, reflecting the presence of a few studies with exceptionally large sample sizes. The distribution of age groups in the studies is as follows: adolescents (28), unspecified (23), young adults (12), children (4), and adults (4). This distribution signifies a higher representation of adolescent and mixed-age groups. In terms of geographical dispersion, the papers exhibit a global representation with 47 papers exploring cyberbullying on a global level, followed by nine papers from the USA. Other regions like Germany, Italy, and China also find representation, albeit in smaller numbers. The studies were predominately Review (42) and Empirical (25) studies, with a minor representation of Theoretical and Case Study types, each having two entries. Various methods have been employed in the studies, with Systematic (23), Survey (19), and Descriptive (12) methods being the most prevalent. Additional methodologies, including Positional, Interview, Critical Review, Meta-Analysis, Policy, Simulation, and Statistical are also present but with lesser frequency (see Table 4) shows a cross-tabulation between variables Age Group and Study Method. Chi-square tests of independence were calculated and the corresponding
+
+suggested statistical significance existed between the categorical variables, suggesting the study types and methods were not independent of the age group being studied. The distribution of studies in terms of size and year is presented (see Fig. 2). Outliers were removed by using the Interquartile range (IQR) to only show observations that fall below Q1 and Q3, where the lower boundary was calculated as Q1 − 1.5 × IQR and the upper boundary as Q1 + 1.5 × IQR.
+"Figure 2: Distribution of studies by sample sizes and year across three visualisations. Subfigure (a) is a bar chart showing total sample sizes catergorized by age groups, including children, adolescents, young adults, adults, and unspecified groups, highlighting the largest sample sizes for adolescents and young adults. Subfigure (b) this is a boxplot displaying sample sizes by age group, showing variability and outliers, with young adults demonstrating the highest median sample size. Subfigure (c) a line chart depicting the number of studies published per year from 2007 to 2022, showing a notable increase in studies over time with peaks in 2015 and 2021.
+Figure 2.
+
+Distribution of studies by sample size and year. (A) Total sample sizes by age group (no outliers). (B) Boxplot of sample sizes by age group (no outliers). (C) Number of studies by year.
+Open in new tabDownload slide
+
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Table 3.
+Open in new tab
+
+Descriptive statistics and frequency distribution of the studies.
+ 	Numericala	Categoricalb
+Category	Year	Sample (n)	Type	Frequency
+Count	71	71		
+Mean	2017	12 939		
+Standard deviation	3.16	73849.48		
+Age group			Adolescents	28
+			Unspecified	23
+			Young adults	12
+			Children	4
+			Adults	4
+Type			Source	42
+			Participant	29
+Region			Global	47
+			USA	9
+			Germany	3
+			Italy	2
+			China	2
+			(Other regions)	(1 each)
+Study			Review	42
+			Empirical	25
+			Theoretical	2
+			Case study	2
+Method			Systematic	23
+			Survey	19
+			Descriptive	12
+			Positional	6
+			Interview	12
+			Critical review	2
+			Meta-analysis	2
+			(Other methods)	(1 each)
+
+aNumerical quantitative measures, the publication year, and sample size. bCategorical type of studies and their corresponding frequency.
+
+					
+	
+			
+	
+					
+					
+					
+					
+					
+			
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+			
+
+Table 4.
+Open in new tab
+
+Cross-tabulation age group and study/method.
+ 	Children	Adolescents	Y adults	Adults	Unspecifieda
+ 	(⁠
+10 years)	(10–17 years)	(18–29 years)	(30 years
+⁠)	(or n/s)
+Studyb					
+Case study	0	2	0	0	 0
+Empirical	0	9	7	4	5
+Review	3	17	5	0	17
+Theoretical	1	0	0	0	1
+			
+⁠, P   .01598, df
+12
+Methodb					
+Critical review	1	0	0	0	1
+Descriptive	3	4	1	0	4
+Interview	0	1	2	0	1
+Meta-analysis	0	0	0	0	2
+Discussion	0	1	0	0	0
+Policy	0	0	0	0	0
+Positional	0	2	0	0	4
+Simulation	0	0	0	1	0
+Statistical	0	0	0	0	1
+Survey	0	8	5	3	3
+Systematic	0	12	4	0	7
+			
+⁠, P   .00681, df
+36
+
+aAge group unspecified or contained mixed participants.
+
+bChi-square test of independence.
+Defining cyberbullying
+
+The concept of cyberbullying has garnered significant attention among researchers, with a plethora of definitions brought forward to describe the phenomenon. Instances of cyberbullying are easily recognizable, namely, repeated online threats, embarrassing social media and forum posts, and threatening private direct messages. Many researchers often define cyberbullying as a form of bullying that involves the use of electronic means, such as social media sites, emails, forums, and instant messaging, to subject an individual to threatening behaviour [25, 26, 63, 72]. To illustrate this further we created a table. We included 22 studies of the 71 reviewed papers, where authors discussed or proposed their definitions. This paper’s review analysis appears as the last entry (see Table A1).
+
+According to to Sloane et al. [48] a significant challenge in defining cyberbullying lies in the ambiguity concerning its core components, including general aggression, intent to cause harm, power imbalance, and repetition commonly linked to traditional bullying. They assert that in the context of cyberbullying, core elements of bullying are evident in traditional bullying. Still, there is more ambiguity surrounding their manifestation in the cyber domain stating ‘Cyberbullying may be differentiated from wider concepts, for instance, cyber-aggression or cyber-victimization concepts subject of ongoing debate’. Olweus and Limber [35] suggest bullying in the traditional sense has been described as the repeated victimization of an individual over a prolonged period in conjunction with negative behaviour or actions. Volk et al. [10] conducted a thorough examination of theoretical and empirical research and propose the following definition for cyberbullying: ‘Bullying is aggressive, goal-directed behaviour that harms an individual within the context of a power imbalance’. Furthermore, they suggest that while this definition emphasizes the goal-directed nature of bullying, it does not require repetition as a necessary feature. Instead, the authors recommend using a low-frequency and high-intensity measurement scale for cyberbullying. In contrast, Alana et al. [56] find very few of the definitions put forward managed to capture aspects for instance, the intent to harm, power imbalance, repetition, and aggression. Many researchers [8, 24, 63, 46] agree there is a lack of a widely accepted definition. In summary, there are several inconsistencies in the scale of the cyberbullying domain, differential measurements from targeted to specific behaviours, lack of standardized tools causing varying impact and prevalence reporting, and varied sample populations leading to different interpretations of results. However, the literature findings do suggest that cyberbullying is a global problem and a distinct form of bullying that includes most or all of the following core categories, Repetition; Power Imbalance; Intent; and Harm. This paper agrees with these findings with the addition of goal-directed behaviour. Therefore, we propose the following standardized definition of cyberbullying as shown (see Fig. 3).
+"A colourful text box titled 'Cyberbullying Definition' containing the proposed standardized definition suggested by the authors: 'The use of technology to manipulate and exploit targeted vulnerable victims using online aggression or harassment and repeated threats, to embarrass or humiliate by posting harmful content, with the purpose of intent to cause psychological and emotional harm, in some cases, leading to physical harm".
+Figure 3.
+
+Standardized definition of cyberbullying.
+Open in new tabDownload slide
+Core elements of cyberbullying
+
+Researchers have extensively examined the intersecting core components of cyberbullying. Some scholars concur that these central elements encompass power imbalances, repetition, intent, harm, technological skills, and online social status. We have created a visual representation of these elements with subcore aspects depicted (see Fig. 4). According to Patchin and Hinduja [24], four core elements define bullying and cyberbullying, including repetition; repeated threats, intent; knowingly and purposely sending threats, spreading rumours and hurtful content online, harm; online psychological and emotional abuse, and power imbalance; technological skills, and online social status. Moreover, Notar et al. [63] assert that the concepts of cyberbullying comprise a range of aggressive behaviours that are characteristic of bullying, namely: physical and verbal bullying, as well as relational and social bullying [63].
+"A 4-set Venn diagram showing the relationships between Intent, Harm, Repetition, and Power Imbalance within the context of cyberbullying. Key overlaps include direct and indirect cyberbullying, emotional harm, and intimidation".
+Figure 4.
+
+The four core elements of cyberbullying (Intent, Harm, Repetition, and Power Imbalance) with overlapping intersections.
+Open in new tabDownload slide
+"A flowchart illustrating the review investigation process for cyberbullying on social media, divided into three phases: Phase 1 focuses on definitions, including core elements and measurements of cyberbullying. Phase 2 addresses prevalence, with subsections covering the nature of cyberbullying, susceptibility, personality traits, and active/passive online participation. Phase 3 explores impact, including interventions and prevention, victim impacts, and demographic factors. The chart visually links the main phases to their corresponding sub-sections and cited literature".
+Figure 5.
+
+Mapping the landscape of cyberbullying research: a conceptual overview with author citation.
+Open in new tabDownload slide
+
+Berne et al. [23] analysed various concepts of cyberbullying and proposed three possible characteristics: (1) online connectivity, which allows cyberbullying to take place at any time, (2) anonymity, which allows cyberbullies to be anyone, and (3) bystanders, a larger audience of online individuals who witness the cyberbullying. Washington [25] concurred with these characteristics, particularly the aspect of anonymity, which often prevents the victim from confronting the cyberbully. Additionally, [25] asserts that previous cyberbullying studies have lacked reliability and validity testing. Olweus and Limber [35] suggest cyberbullying should be treated as a separate subcategory or a distinct form of bullying to be used within the context of power imbalance. In addition, [35] asserts that bullying is intentional aggressive behaviour that is repeated and arises from a power imbalance between two or more individuals. Watts et al. [26] identified two subsets of cyberbullying: direct bullying, which occurs between the cyberbully and the victim. Indirect bullying: this is when a cyberbully posts malicious content about the victim on social media. Moreover, [26] stated that there appear to be six different forms of cyberbullying, which are as follows:
+
+    Flaming: posting profanities and insulting others online.
+
+    Harassment: repeated malicious messages, threats, or posting explicit images/videos without consent.
+
+    Denigration: callous misinformation about others with the intent of spreading false rumours.
+
+    Impersonation: hack and steal someone’s social media account and/or masquerade as a fake persona online.
+
+    Outing: acquiring another person’s personal information and disclosing this to online users.
+
+    Trickery: manipulate and deceive another person into revealing their secrets online and/or sending images and videos.
+
+In summary, this section highlighted several key elements to understanding cyberbullying. These include elements such as anonymity, the influential role of bystanders, the impact of online connectivity, and many manifestations of direct and indirect cyberbullying. Whilst some researchers focus on close similarities between traditional bullying and cyberbullying, others recommend examining cyberbullying as a distinct category, with the power imbalance between the cyberbullying perpetrator and the victim being the defining feature. The need for further research remains crucial to establish consistent and valid definitions of cyberbullying is vital for developing future prevention and intervention strategies.
+Cyberbullying measurements
+
+The measurement of cyberbullying behaviour and related variables is an important topic of investigation. Numerous studies highlight the challenges and inconsistencies in measuring cyberbullying. For example, Aboujaoude et al. [8] examined different variables and noted that Data variables on cyberbullying demographics appeared to be inconsistent or sparse. The authors also highlighted the gender differences variable, which showed females were more likely to be victims of cyberbullying, and males were more likely to cyberbully. A systematic review by Chun et al. [9] analysed 64 studies on cyberbullying measurements and found six common themes, which are as follows:
+
+    Use of electronic means or devices.
+
+    Vulnerability.
+
+    Repeated harm or behaviour.
+
+    Deliberate act or intent.
+
+    Unwanted information of others.
+
+    Purpose for threatening, harassing/embarrassing others.
+
+Additionally, [9] finds past research on cyberbullying was inconsistent, and suggests future research should focus on enhancing the definition using factor analysis, cyberbullying instruments clarity, validity, and reliability testing. According to, Patchin and Hinduja [24] their measurements may not have shown clear accounts for the core elements of intent, harm, repetition, and power imbalance, but their findings offered some preliminary reliability and validity. Watts et al. [26] stated that self-report measures are frequently practised in cyberbullying research to measure perpetration. Cricchio et al. [54] examined the commonality between moral disengagement (MD) and cyberbullying. The term MD refers to a psychological process, where individuals disconnect from their morals in an attempt to justify their unethical harmful actions. In the context of cyberbullying, this may involvemay involve rationalization or justification for rationalization or justification for online acts of harm, threats, and cruelty to users. The authors measured both active and passive bystander behaviours of online perpetration and results demonstrate a strong correlation between cyberbullying and MD, which appears to corroborate research by Zhao and Yu [70]. A study by Menin et al. [55] evaluated operational definitions for cyberbullying, which focused on youth who were victims or perpetrators. Although, the study was limited by self-reported data and limited scope, [55] concluded that dominance was a related criterion of perception for both bullying and cyberbullying.
+
+The measurement of cyberbullying is a complex and evolving field, researchers continue to explore novel ways to enhance measurement tools and address limitations to obtain more accurate and reliable data on the cyberbullying phenomena. In Section Defining cyberbullying, we sought to answer our first two research questions see section (Research questions). We explored the varied definitions of cyberbullying in existing literature and highlighted that while instances of cyberbullying (like repeated online threats and embarrassing posts) are recognizable, there is no consensus on a universal definition. Different researchers emphasize various aspects such as electronic means, intent to cause harm, power imbalance, and repetition. Notably, some researchers argue for treating cyberbullying as a distinct category from traditional bullying, focusing on the power imbalance in the cyber context. Also, we discussed the contributing factors to cyberbullying and identified core elements like power imbalances, repetition, intent, harm, technological skills, and online social status. Our approach considered the measurement challenges in cyberbullying research, noting the inconsistencies in data variables and the different themes used in cyberbullying measurements, such as electronic means, repeated harm, and deliberate acts (see Table 5). Furthermore, we acknowledged the limitations of self-report measures and the need for more reliable and valid measurement tools in this field.
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+Table 5.
+Open in new tab
+
+Themes found within the literature.
+aThemes	Studies
+Definitions	
+Experienced digitally	[2, 7, 13, 20, 35, 52, 56, 57, 61, 63]
+Repetition, intent, harm, and power imbalance	[7, 13, 20, 35, 38, 49, 52, 56, 57, 59, 62, 72]
+Goal-directed behaviour,	[59]
+Cyber-aggression	[20, 62]
+Moral disengagement	[27, 35, 66]
+Mock-aggression	[19]
+Prevalence	
+Technologies: wide reach and social media platforms	[2, 7, 12, 14, 15, 26, 29, 30, 36, 40, 42, 50, 59]
+Dark social media use	[44, 70]
+Population and sample sizes	[1, 14, 26, 36, 38, 42, 43, 58, 67]
+Privacy and/or anonymity	[3, 4, 7, 12, 14, 30, 52, 54, 67]
+Bystander behaviours	[6, 12, 14, 28, 30, 54, 67, 69]
+Dark triad/tetrad	[3, 8, 27, 34, 44, 58, 70]
+Five-factor model (OCEAN)	[29, 30, 46]
+Impact	
+Demographic	[4, 9–11, 16, 18, 37, 41, 51, 65]
+Mental health and well-being	[11, 21, 23, 24, 31–34, 40, 41, 48, 51, 65, 67, 71]
+Interventions and prevention	[23, 25, 30, 31, 55, 60, 64]
+Suicidal ideation	[5, 11, 14, 17, 30]
+Suicide prevention strategies	[22, 47, 53]
+Legal challenges	[21]
+
+aTop themes from literature with author citations.
+Prevalence of cyberbullying on social media
+
+According to a survey conducted by Cohen-Almagor [28], Instagram was the top platform where cyberbullying incidents occurred. Specifically, 42% of young individuals were shown to have experienced cyberbullying on Instagram, 37% on Facebook, and 31% on Snapchat. In addition, 71% of survey participants reported social media networks were not doing enough to prevent cyberbullying, [28] suggested social networking platforms should demonstrate a duty of care to protect platform users. For example, noticeable reporting buttons would be helpful on Facebook to allow users to report cyberbullying, threats and abuse as perpetrators can easily masquerade on social networks, spread malicious rumours, send aggressive/threatening messages and share users’ confidential information. Wilkins et al. [2] examined common types of cyberbullying, technologies used, gender differences, cultural prevalence and the emotional impact of cyberbullying. The authors identified several forms of cyberbullying, with most incidents of perpetration occurring via emails, instant messaging, and posting of private online communications [2] research appeared to be limited regarding gender differences. An exploratory study by Ghaiumy et al. [37] investigated the negative consequences of social media use, social comparison, fear of missing out and cyberbullying. The authors state that factors such as validation seeking’ social media experiences, with the self-internalization of users’ being influenced by their personality traits harm participants. However, the paper was limited by a small sample size that focused on only one population subset.
+
+Longobardi et al. [53] analysed the correlation between Instagram popularity, subjective happiness, victimization, and social media addiction. The authors assert that a higher number of followers on Instagram harmed users’ subjective happiness. Those who were more passive on Instagram were less likely to experience negative consequences, [53] study was limited by its reliance on self-reported data with a lack of examination of a broad range of users’ interactions on Instagram. Cortis and Handschuh. [65] performed an analysis review of Twitter tweets over three months to identify the most popular hashtags related to cyberbullying, [65] asserts that ‘social networks have risks namely, cyberbullying, depression, and exposure to inappropriate content’. Cyberbullying on social media involves using online platforms to harm, intimidate, or harass others. It is a prevalent concerning issue that has garnered significant attention. We have conceptualized an example of the nature of cyberbullying on social media (see Fig. 6). A review by Chan et al. [5] provides an in-depth overview of the nature of cyberbullying on social networks and discusses research patterns and theoretical foundations. According to the authors ‘cyberbullying on social media is a serious emerging societal issue’. Therefore an integrative framework was developed from social cognitive theory to understand what is known/identify what remains to be learned focusing on the perpetrator/victim and bystander relationship.
+"A circular diagram illustrating an example of cyberbullying via social media. Divided into five stages: (1) Perpetrator - individuals who engage in malicious online behaviours such as, repeated threats, harassment, and intimidation; (2) Content - sharing of harmful posts, images, and negative messaging shared publicly or privately; (3) Cyber-Victim - individuals targeted by cyberbully perpetrators, often leading to emotional and psychological harm for the victim; (4) Pyschological/Physical Impact - effects such as emotional distress, anxiety, or physical symptoms; and (5) Continuation of Incidents - the recurring nature of cyberbullying as further cyber-vctims are targeted and harmful content iis shared further, perpetuating the cycle.
+Figure 6.
+
+An example of cycle process of cyberbullying on social media.
+Open in new tabDownload slide
+Nature of cyberbullying on social media
+
+Many authors highlight substantial research is needed to fully grasp the complexities of cyberbullying on social networks. Oksanen et al. [13] discussed cyberbullying within workplace organizations and social media identity bubbles and stated that young professionals who are in social media identity bubbles reported higher rates of cyberbullying victimization, with 17% of Finnish workers reporting victimization and victims who were in social media identity bubbles reported higher levels of psychological distress, exhaustion, and technostress. An exploratory study by Abaido et al. [61] examined the pervasiveness of cyberbullying among university students in an Arab community and their attitudes towards reporting it, [61] finds 91% of the sample confirmed the existence of cyberbullying on social media, with Instagram (55.5%) and Facebook (38%) being the most prevalent platforms. Moreover, the authors ascertained that reporting cyberbullying incidents was a significant problem due to social and cultural constraints. Oladimeji et al. [14] examined factors influencing cyberbullying on social media among university students. Some of the main findings were that the prevalence of cyberbullying appears to be a severe problem on social network platforms, which has prolonged psychological effects on individuals. Social roles in a digital environment are demonstrated by patterns of behaviour, which can lead to social constraints that affect future interactions. Instagram was the selected platform for the study based on its popularity among university students and other platforms were overlooked. In summary, cyberbullying is a significant problem marked by its anonymous, widespread, and constant nature. It involves using digital platforms to harass, intimidate, and share harmful content, that harms individuals’ well-being. To combat cyberbullying and help victims, it’s essential to grasp its characteristics, especially on social media, and develop effective prevention measures.
+Methods for capturing negative behaviours
+
+Online negative behaviours refer to behaviours that are harmful, antisocial, or detrimental within the context of social media and online interactions. Squicciarini et al. [1], reviewed varying analytical methods that capture negative or antisocial behaviour more specifically social spamming and cyberbullying. Their study highlighted the ability of social networking sites to collect user data, including behaviour data, and they asserted negative behaviours can be prevented through using different techniques. Additionally, they found a strong connection between deception and privacy in social networking sites.
+
+Moreover, [1] suggests that one technique to analyse user behaviour is to use cascading models. A longitudinal study by Müller et al. [38] examined the reciprocal associations between the frequency of social media use, cyberbullying and cyber victimization over 15 months, and found that the frequency of media use does not predict cyberbullying and cyber victimization but found that cyberbullying, and cyber victimization predict the frequency of media use from the third to the fourth measurement point of their study. However, the study was limited by self-reported results that may be biased and only two measurement points were used without controlling for variables, for example, traditional bullying or traditional victimization.
+
+Floros and Mylona [36] investigated the link between cyberbullying and internet use disorder. Floros and Mylona [36] found that social media and online gaming are common factors between the two, but cross-sectional studies are limited in usefulness, and psychological measurements for both are relatively scarce. Moreover, they suggest there is a greater need for more research to fully understand the extent and nature of the correlation between cyberbullying and internet use disorder. In conclusion, methods for capturing negative behaviours in social media and online interactions have been explored.
+
+Squicciarini et al. [1] reviewed analytical methods for identifying and preventing negative behaviours like social spamming and cyberbullying. Their work emphasized the role of social networking sites in collecting behaviour data and proposed different techniques for prevention. Muller et al. [38] longitudinal study on the associations between social media use, cyberbullying, and cyber victimization, suggests negative behaviours predict increased media use over time. Floros and Mylona’s [36] review highlighted the common factors between cyberbullying and internet use disorder, calling for further research to better understand their correlation.
+Susceptibility to cyberbullying
+
+Peluchette et al. [58] investigated the impact of risky social network site practices and online individual differences on the likelihood of cyberbullying victimization. They assert that the posting of indiscreet or negative content by cyberbullies or friends of the victim, as well as the number of Facebook friends, was a strong correlation factor of cyberbullying victimization. However, the study seemed to be lacking the evaluation of diverse types of cyberbullying sources or the types of communication used. An article by Gu and Chen [43] investigated the correlation between previous cyber victimization experiences and the continuous use of social media. They suggested: ‘Social media rumination and distress act as the main mediators in the relationship between previous cyberbullying victimization and continuous use of social media’. Moreover, the findings suggest that research on interventions should focus on alleviating social media rumination and distress.
+
+In addition, although the findings provided some preliminary results, the authors acknowledged that their work only considered social media as a general concept and did not explore the differences in user behaviour across several social media platforms. Giumetti and Kowalski [11] ascertain that several individual and online behavioural factors may contribute to a person’s risk of being a victim of cyberbullying for example self-disclosure disposition, LGBTQ+ status, and emotional stability. Furthermore, they found that social media use problems, social media addiction, self-disclosure, the number of social media followers, and an online relationship with a victim of cyberbullying may also increase the risk of cyberbullying victimization. The authors assert that there have been several negative well-being concerns linked to social media cyberbullying victimization among young individuals. Some of the main well-being concerns include physical problems, psychological distress, anxiety, depression, reduced life satisfaction, suicidal ideation, and suicide attempts. Research by Cohen-Almagor [28] and Barlett et al. [4] also agrees with Giumetti and Kowalski [11]. Based on the findings of several studies [4, 11, 28, 58] susceptibility to cyberbullying is affected by various factors including, risky social network site practices, personality traits, individual online behaviour factors, and well-being concerns.
+Personality traits and cyberbullying
+
+According to, Gajda et al. [42] cyberbullying and antisocial online behaviour, are associated with the dark tetrad when perpetrated through electronic means. Additionally, the authors suggest that their study revealed a strong correlation between all dark personality traits and higher rates of cyberbullying and cyber victimization. Furthermore, they assert that individuals who scored high on the dark triad (DT) traits were more likely to engage in cyberbullying and also more likely to experience cyber victimization.
+
+The authors concluded by suggesting that interventions and prevention programs targeting dark personality traits may be effective in reducing cyberbullying [42]. The DT itself represents a set of personality traits characterized by manipulative, exploitative, and socially negative behaviours. More recently, a fourth trait, sadism, has been added to the DT, forming the concept of the Dark Tetrad. The interrelated traits are as follows:
+
+    Machiavellianism: a person’s manipulative and deceitful nature, where individuals prioritise their interests and manipulate others to achieve their goals.
+
+    Narcissism: individuals with an inflated sense of self-importance, who seek excessive admiration, and lack empathy towards others.
+
+    Psychopathy: individuals who exhibit a lack of remorse or empathy, engage in impulsive and antisocial behaviour, and often display superficial charm.
+
+    Sadism: deriving pleasure from causing pain or discomfort to others.
+
+With the inclusion of sadism, researchers can explore new avenues of self-reported risk-taking online behaviours. However, further research is needed to understand the full relationship between the Dark Tetrad and online behaviours. It is worth noting that the DT and Dark Tetrad are frameworks used to understand certain negative traits and behaviours and not everyone who possesses these traits will engage in cyberbullying or other harmful activities.
+
+Other factors may influence a person’s negative antisocial behaviour for instance, psychological factors, environmental factors, and individual differences can also play a crucial role in determining behaviour. Peluchette et al. [58] assert that personality traits for example, extraversion and openness were significant predictors of cyberbullying, while in terms of risky social network site practices, conscientiousness, extraversion, agreeableness, emotional stability, and self-disclosure were prominent factors. This corroborates work by Giumetti and Kowalski [11]. Personality traits highlighted by Peluchette et al. [58] and Giumetti and Kowalski [11] are often referred to as the big five-factor personality model or ‘OCEAN’ as follows:
+
+    Openness: to experience reflects a person’s empathetic and open-minded nature.
+
+    Conscientiousness: individuals with self-discipline and respect for following rules.
+
+    Extraversion: outgoing, social, and energetic people who seek social interactions.
+
+    Agreeableness: people with this trait tend to be more compassionate, and cooperative and show consideration for others.
+
+    Neuroticism (emotional stability): individuals with this trait may be more likely to experience, anxiety, depression, mood changes, and negative emotions.
+
+Li and Peng [34] examined the relationship between cyberbullying, empathy and aggression. They found that individuals who scored low on empathy were more likely to engage in cyberbullying, and that aggression was indeed a mediator between empathy and cyberbullying. Furthermore, they suggest interventions targeting empathy and aggression could be effective in reducing cyberbullying. Floros and Mylona [36] investigated the correlation between cyberbullying, self-esteem, and body image. Their findings indicated that individuals with poor body image and low self-esteem were more likely to be involved in cyberbullying as victims and perpetrators. Moreover, their study also revealed individuals involved in cyberbullying reported lower levels of self-esteem and body image satisfaction than those not involved. As such, they recommend interventions that target self-esteem and body image to reduce cyberbullying.
+
+Schade et al. [69] conducted a study with 743 participants from Germany and Austria to examine the nexus between dark personality traits, emotional intelligence, empathy, and cyberbullying. They found a moderate association between emotional intelligence and dark personality traits, as well as cyberbullying among both males and females. However, their study showed some limitations, including the relatively low measurement reliability of empathy and psychopathy, and the irregular distribution of items and scales. Li et al. [34] examined the general strain theory, constraints, and morality of cyberbullying. They found that strain is closely related to cyberbullying behaviours and that constraints and morality appeared to reduce the negative consequences of strain concerning cyberbullying, although the sample used in the study was not fully representative in global terms, and the variables used were binary.
+
+Olckers and Hattingh [27] conducted a systematic review of literature related to catfishing, trolling, and cyberbullying. The study revealed that factors contributing to the dark side of social media use are mostly associated with DT personality types. Additionally, the authors suggest that it is not possible to completely prevent dark social media use. Nesi et al. [71] examined the relationship between social media use, self-injurious thoughts and behaviours (SITB). They observed that cyber victimization, SITB-related social media use, and problematic social media use correlated with SITB. However, their study had limitations, primarily being cross-sectional and relying on self-reporting, which affected the clarity in defining various social media constructs. According to Alavi et al. [7], social networking platforms may enable antisocial behaviours such as trolling, sock puppeting, vandalizing, cyberbullying, creating fake accounts, botting, and spamming. Furthermore, they suggested individuals who spend a significant amount of time on social networking sites, are more likely to engage in antisocial behaviours via social media. Meanwhile, Alavi et al. [7] explored the relationship between adult cyber trolling, cyberbullying, and dark personality traits. Whilst, Quandt et al. [47] discussed the impact of dark social media participation on perpetrators’ well-being. According to the authors, dark social media use can have serious consequences for victims and society. Furthermore, preliminary findings by Alavi et al. [7] suggest that perpetrators may experience positive emotions and gratification and that understanding these gratifications could shed light on the dark side of social media [7]. Boland et al. [62] examined the relationship between pathological personality traits and social network site behaviours. According to the authors, negative effects and antagonism are strongly associated with abnormal social network site behaviours. However, the authors noted that one key limitation of the study was that the scale used to measure social network site attitudes and behaviours was not thoroughly tested for validity. You et al. [30] investigated the relationship between cyberbullying and depression among South Korean adolescents. They found that cyberbullying appears to strongly correlate with depression among adolescents, with female adolescents being more susceptible to the negative effects of cyberbullying. They highlighted the need for effective prevention and intervention programs to address the issue of cyberbullying among adolescents in South Korea. Ho et al. [12] examined cyberbullying perpetration via social media. Their findings suggested that attitude, subjective norms, and active and restrictive parental mediation correlated negatively with cyberbullying perpetration via social media. Age was considered to be a significant factor in terms of both parental mediation strategies and cyberbullying perpetration [12].
+
+In this subsection, the text discusses how certain personality traits relate to cyberbullying behaviour. The Dark Tetrad, including Machiavellianism, Narcissism, Psychopathy, and Sadism, is associated with higher rates of cyberbullying and victimization. The Big Five personality model is also mentioned, with traits like extraversion and conscientiousness influencing cyberbullying. Empathy, aggression, self-esteem, and body image are found to play a role in cyberbullying tendencies. Several studies explore these relationships and offer insights into understanding and preventing cyberbullying. Additionally, the impact of dark personality traits, emotional intelligence, and social media use on cyberbullying is briefly discussed, along with the potential gratification experienced by perpetrators of dark social media use. Finally, the role of parental mediation strategies and age in cyberbullying perpetration via social media is considered.
+Online active and passive participation
+
+Understanding the shifts between passive observation and active involvement in cyberbullying is crucial not only for identifying how such behaviours influence the prevalence and severity of cyberbullying but also for informing prevention and intervention strategies. This section explores these dynamics and presents evidence-based classifications of online participation. The literature suggests a continuum between passive observation and active involvement, with some participants starting as passive observers but later transitioning to active roles that may intensify the harm. Researchers such as Dynel [68] and Giumetti and Kowalski [11] have highlighted the fluidity of online roles, from cyber victims and perpetrators to active and passive participants. A comprehensive analysis of participation in cyberbullying by Dynel [68] distinguished between ‘mock aggression’ or ‘roasting’—often intended as humorous—and genuine cyberbullying, which causes harm to the target. The study focused on the RoastMe subreddit community, revealing that online participants, whether members or nonmembers, can shift between light-hearted and harmful engagement depending on their interpretation of the interaction.
+
+Similarly, [55] highlighted the importance of dominance and power dynamics, and their role in online participation, while Polanco-Levican and Salvo-Garrido [6] emphasized anonymity as a key factor exacerbating the risks. Schultze et al. [51] discussed how online participants could either intensify or mitigate cyberbullying incidents, but noted the need for further empirical research on the roles of different participants. Cohen [28] provided insights into the lack of empathy and remorse in anonymous environments, suggesting that young children and minority groups often become cyber victims. Cohen [28] ascertains there be as many as five key types of online participation: assisting, reinforcing, observing, nonengaging, and defending. Based on the literature discussed, (see Fig. 7) which visually depicts the five key forms of online participation. The five forms of online participation are briefly outlined below.
+"A diagram showing online roles within the context of cyberbullying, including active/passive participants: perpetrators, reinforcers, assistants, defenders, outsiders, watchers, and cyber-victims, with connections mediated through the Internet icon (symbolizing online communication)".
+Figure 7.
+
+Cyberbullying active and passive participation.
+Open in new tabDownload slide
+
+Five forms of online active and passive participation:
+
+    Assistants (engaging): actively engage with the cyberbully by also insulting the person/s being victimized online.
+
+    Reinforcers (encouraging): actively encourage the cyberbully and provide positive feedback.
+
+    Watchers (observing): passively observe cyberbullying without engaging or intervening.
+
+    Outsiders (nonengaging): choose not to participate in cyberbullying, and actively remove themselves from the situation, passively observing but not intervening.
+
+    Defenders (supporting): actively attempt to intervene by defending the person/s being victimized online.
+
+Several empirical studies provide additional insights. Garett et al. [16] analysed how abusive behaviour impacts the well-being of victims and how both active and passive participants can mitigate or intensify cyberbullying. Bastiaensens et al. [49] explored the role of participant intentions, noting that individuals with higher behavioural intentions to help, particularly those close to the cybervictim, are more likely to intervene in severe incidents. You and Lee [30] explored how anonymity and participant numbers affect intervention intentions, while [59] highlighted an example of passive online participation in cyberbullying, showing that many online witnesses of cyberbullying do not intervene. In conclusion, online participants, whether active or passive, significantly influence the course of cyberbullying incidents. The five forms of participation—assisting, reinforcing, observing, nonengaging (outsiders), and defending—play crucial roles in the prevalence and impact of cyberbullying on social media.
+Impact of cyberbullying
+
+The impact of cyberbullying has been a topic of discussion for many researchers in recent years. We created a word cloud based on the literature discussed in Sections Defining cyberbullying, Prevalence of cyberbullying on social media , and Impact of cyberbullying. Our word cloud shows that adolescents, young adults, mental health, depression, antisocial behaviours, personality traits, and victimization were just some of the top keywords identified from the literature (see Fig. 8). Scott and Woods [52] conducted a review emphasizing the significance of social media use in understanding the relationship between sleep, mental health issues, and social media. They highlighted the importance of employing multidisciplinary and high-quality measurement approaches to garner a comprehensive understanding of this relationship. Keles et al. [17] focused on the influence of social media on mental health outcomes in adolescents, such as depression, anxiety, and psychological distress. Their research found a close association between social media use and anxiety, depression, and psychological distress.
+"A word cloud showing top keywords from the literature on cyberbullying, including terms such as 'Social Networks,' 'Social Media,' 'Victims,' 'Depression,' 'Aggression,' 'Adolescents,' 'Personality Traits,' and 'Mental Health,' highlighting key themes and topics in the research".
+Figure 8.
+
+Cyberbullying on social media: top keywords.
+Open in new tabDownload slide
+
+Scott and Woods [52] stated that although the overall relationship between social media use and well-being is negative based on small effect sizes, indicating potential minor impacts, the specific impacts can vary. Additionally, they suggest that more research is needed to address these limitations and gain a more nuanced understanding of the impact of cyberbullying, including the magnitude and significance of the effects. Orben [39] conducted a review of research that examined the link between digital technology, social media use, and the well-being of adolescents. The results of the review indicated that the average score concerning the relationship between social media use and well-being is negative, albeit with small effect sizes, suggesting minor impacts, although the author did concede that the link between digital technology use and well-being remains unclear and future research should focus on improving transparency in measurements, interpreting effect sizes, and considering individual differences. In summary, this section underscores the complex nature of the relationship between social media usage, sleep patterns, and mental well-being, revealing potential slight influences. While studies contribute to our understanding, they also emphasize the necessity for future research using more comprehensive and objective methods of measurement.
+Interventions and prevention
+
+According to Foody et al. [57], more research is necessary to establish the coping responses of cyber-bullied victims to develop effective intervention and prevention strategies. A systematic review by Robinson et al. [44] found that not all youths who experience cyberbullying suffer negative effects. They highlight that inconsistent measurements and a lack of theoretical frameworks are an issue, emphasizing the need for additional research to understand coping mechanisms and develop effective interventions to support victims. Ferrara et al. [15] examined the severe impact cyberbullying has on the mental health and physical well-being of young children and adolescents. They highlight the need to better understand the phenomenon to develop effective prevention and intervention strategies. Moreover, paediatrics should play a crucial role in caring for and supporting the social developmental well-being of cyberbullying victims, particularly young children, whilst Asam and Samara [50] evaluated the psychological and legal challenges of cyberbullying and argued for a specific law against cyberbullying. Zych et al. ([40, 41]) evaluated the existing research on bullying and cyberbullying concepts, prevention, and intervention. Zych et al. [40, 41] state that while antibullying programs are usually effective for bullying, meta-analysis and systematic reviews on cyberbullying in short supply and suggest that further research is needed to fully understand the nature of cyberbullying and how to prevent it.
+Cyberbullying victim impact
+
+Daine et al. [20] reviewed literature based on the relationship between internet exposure and self-harm or suicide in young people. The authors found that internet exposure and increased risk of self-harm, suicidal ideation, depression, and violent methods of self-harm strongly correlate. They conclude that high-quality research is necessary to, further consider how internet media may exert negative influences and how it might be utilized to intervene with vulnerable young people. Barlett et al. [4] examined previous research on cyberbullying, social media networks, and suicide tragedies, and asserted that social media networks can be abused for negative antisocial behaviours, and can provide a platform for cyberbullying. Furthermore, the authors highlighted the role of social media perceptions in the development of cyberbullying perpetration, thus suggesting that certain social media platforms offer more anonymity, and can amplify the influence of cyberbullying. They also acknowledge that while cyberbullying victimization alone may not be the sole factor contributing to suicide cases, all of the mentioned suicides had one common element: social media platforms were the primary method for cyberbullying perpetration. Moreover, the authors suggest that producing empirical works that could predict why, when, and for whom social media perpetration happens could be difficult to prove.
+
+This is because of popularity changes in social media platforms and software updates. However, the study also emphasized that ‘the ability to theoretically link social media use to cyberbullying is important’ and‘social media could also be a tool used to reduce cyberbullying perpetration, by decreasing the anonymity perception of users’. A longitudinal study by Sedgwick et al. [29] reviewed the literature on social media/internet use and suicide attempts in adolescents. They discovered that seven of the evaluated studies found a direct correlation between substantial social media/internet use and an increase in suicide attempts. However, the research was limited because it only included studies that identified suicide or suicide attempts as an outcome. Robinson et al. [67] assert that social media platforms may be used for suicide prevention and may also allow others to intervene following an expression of suicidal ideation online. Fayaz and Khalique [66] also found that social networking has had a positive impact on the structure, psychological aspects, sociological aspects, behaviour and nature of human personality. However, Robinson et al. [67] suggest that challenges for suicide prevention on social media platforms include difficulties controlling user behaviour or accurately assessing risk and issues relating to privacy and confidentiality.
+Impact by demographic
+
+There appears to be a growing body of knowledge of cyberbullying among demographics such as children and adolescents, However, it seems that there is a significant gap in research on, the intersection of psychological, social, and legal aspects of cyberbullying and the development of targeted interventions and support systems in place to meet the needs of the young adult population. Dredge et al. [64] examined cyberbullying events experienced by adolescents via social media and the impact of the cyberbullying events and evaluated the participants’ understanding of cyberbullying. They found that the adolescent participants did not consistently reference the basic concepts of the definition of cyberbullying from previous research. 68% of adolescent victims reported experiencing emotional, social, and behavioural impacts from cyberbullying experience, while 12% reported no effect. However, the authors acknowledge that the study participants were self-selected due to self-identifying as having negative experiences on social networking sites, which may have influenced the reported impact patterns and may not be widespread to all victims of cyberbullying.
+
+Cao and Lin [31] study showed that 16.6% of youths had reported having been bullied on social networking sites and found that, previous victims of cyberbullying reported more antisocial reaction strategies than those who were not victims; also, females tended to behave in prosocial bystander behaviours, whereas males were more likely to act in an antisocial way. Additionally, the authors acknowledge some limitations of their study, victims may also be or become perpetrators, and previous victimization experiences were categorized as a variable. A longitudinal study by Nixon [21] investigated the impact of cyberbullying on the health of adolescents. The study evaluated measures of increased depressive affect, anxiety, loneliness, suicidal behaviours, somatic symptoms, increased substance use, aggression, and delinquent behaviours. According to Nixon [21], cyberbullying poses a severe threat to adolescents’ health and mental well-being, with those targeted by cyberbullying reporting increased depressive affect, anxiety, loneliness, suicidal behaviour, and somatic symptoms. Twenge [22] evaluated the possible connection between mental health among US adolescents and young adults, and the rise of digital media use, Twenge found that social media may increase unhealthy social comparisons, particularly concerning body image, especially among females. In addition, the author stated that the increase in technology use by adolescents is a main factor for depression, anxiety, self-harm, and suicide ideation. The study also noted that the correlation between digital media use and mental health is complex to determine.
+
+Brandau et al. [18] stated that from a psychological perspective, cyberbullying poses a significant risk for depression in adolescents. In addition, the authors emphasize that the excessive utilization of social media platforms such as Facebook, can lead to individuals comparing their lives to those of others and low self-esteem. According to Cataldo et al. [19] platforms such as Facebook, Instagram, and Snapchat are the top social media sites based on visual content. They suggest that due to the rapid spread of content on social media platforms, victims of cyberbullying experience serious negative consequences for instance, social anxiety, depression, suicide ideation, and suicide attempts. Furthermore, the authors suggest that cyberbullying via social media can cause sleep problems and, according to previous research, this is more prevalent in females than males, and can be complex to understand the full impact of cyberbullying on children and adolescents. The population of young emerging adults and adults can also be impacted by cyberbullying on social media, emerging adults, in particular, are at a very crucial stage in their lives where they are perhaps leaving home for the first time, entering employment or attending college/university. An article by, Cataldo et al. [19] asserts that further research is needed to investigate the long-term effects of cyberbullying, as well as effective intervention and prevention strategies. Rosenthal et al. [60] analysed data based on negative Facebook experiences and depression from conducted interviews with 264 young adult participants in the USA. They assert that negative experiences on Facebook are closely associated with depression in young adults. However, the authors suggest that future research should examine whether negative Facebook experiences cause incident depression or exacerbate already existing depression. According to Allen et al. [3], trolling, cyberbullying, or other forms of harassment on social media are related to anonymity, which means there appears to be a lack of consequences for the perpetrator. The study found that young adults shared beliefs concerning social media and anonymity, and some participants described cyberbullying as ‘drama’. Marino et al. [33] conducted a meta-analysis that focused on a participation study with young adults and adults on problematic social media use to identify whether psychological distress and well-being were closely related to the problematic use of Facebook. They found a strong correlation between problematic Facebook use and psychological distress however, well-being and problematic Facebook use were negatively correlated. The authors further highlight that their study was limited using a cross-sectional design, which may have restricted the possibility of proving the direction of problematic Facebook use, well-being and psychological stress. Cunningham et al. [32] evaluated findings from individuals who use social media and people who have depressive symptoms. Moreover, they suggest no significant difference in problematic social media use and depression between adolescents and young adults (college/university age) was present. In addition, [32] also noted that further research is needed to understand the complexity of the relationship between problematic social media use and depression.
+
+In Section Impact of cyberbullying, we sought to answer our final research question see section (Research questions) and found several studies emphasized the negative impacts of cyberbullying on mental health, particularly highlighting an increase in depression, anxiety, psychological distress, self-harm, and suicidal ideation among adolescents and young adults. The studies indicate a strong correlation between social media use, where cyberbullying occurs, and adverse mental health outcomes. We also highlighted that some research noted that not all individuals experience cyberbullying similarly, with varied effects on mental and physical well-being. This variability suggests the need for personalized approaches in addressing the impact of cyberbullying. Secondly, we highlighted the necessity for more research to understand the coping mechanisms of victims to develop effective interventions. In addition, a focus on the psychological and legal challenges of cyberbullying suggests a multifaceted approach, including potential legislation against cyberbullying and psychological support for victims. Specifically, we highlighted research that proposed that paediatricians should play a crucial role in supporting the social and developmental well-being of young cyberbullying victims.
+Discussion
+
+Cyberbullying on social media is a pervasive and global concern that has garnered extensive attention in recent years but the absence of a consensus regarding its definition and measurement has led to a landscape of conflicting and inconsistent findings. The research underscores the intricate web of factors linked to cyberbullying, encompassing dark personality traits, empathy levels, aggression tendencies, self-esteem, and body image perceptions. Effective strategies for intervention and prevention must target these diverse facets to mitigate cyberbullying. However, a more profound comprehension of victims’ coping mechanisms and the development of tailored support interventions remain critical research needs.
+
+Studies underscore that cyberbullying through social media channels constitutes a global health crisis with profound mental health repercussions. Individual traits and online behaviours, such as low agreeableness, high extraversion, openness to experience, LGBTQ+ identities, self-disclosure inclinations, emotional resilience, struggle with social media use, addiction tendencies, self-disclosure behaviour, follower counts, and virtual relationships, heighten an individual’s vulnerability to cyberbullying victimization.
+
+To address cyberbullying effectively, intervention initiatives must be nuanced, considering individual idiosyncrasies and cultural variances that influence its impact. Adolescents, in particular, bear a disproportionate burden, with females often grappling with social anxiety and sleep disturbances, while males may exhibit heightened tendencies towards antisocial behaviours. The deleterious effects of negative experiences on platforms like Facebook are conspicuously linked to depression among young adults in the USA. The cloak of anonymity prevalent in social media environments facilitates cyberbullying behaviours, with individuals who spend more time online exhibiting a greater propensity for engaging in antisocial acts.
+
+Future investigations should delve into the causal nexus between adverse Facebook experiences and depression, as well as the influence of anonymity on cyberbullying behaviour. Robust, diverse samples will be pivotal in achieving a comprehensive understanding of the intricate relationship between social media usage and psychological distress among adults. Moreover, it is imperative to recognize that the cross-sectional nature of certain studies may curtail their capacity to establish causality, and findings associated with specific social media platforms may not necessarily generalize to all facets of the social media landscape.
+Limitations
+
+The literature examined in this review reveals several noteworthy limitations to bear in mind when interpreting the findings. Some studies employed cross-sectional designs, limiting the ability to establish causal relationships between cyberbullying and adverse outcomes. Self-report measures were predominant, potentially introducing bias. Many studies focused exclusively on specific demographics, like young adults or US adolescents, potentially limiting their findings. Furthermore, a subset of the literature concentrated solely on specific platforms, such as Facebook and Twitter, possibly not reflecting the broader social media landscape. In particular, research on social media use and suicide attempts often only considered suicide-related outcomes, potentially overlooking other cyberbullying-related consequences. Many studies had small samples from the same demographic, making it challenging to generalize findings to broader populations. Additionally, variations in how cyberbullying was defined and measured across studies could impact the universality of the results. In summary, the literature reviewed herein presents several constraints to consider during interpretation. This paper was limited by a lack of reporting on the crime and offence element of cyberbullying. Further research, employing more rigorous methodologies and encompassing diverse populations, is warranted to deepen our understanding of the effects of cyberbullying and social media use.
+Conclusion
+
+In conclusion, this systematic literature review has demonstrated that cyberbullying is a multifaceted and complex phenomenon, influenced by various factors such as social roles in digital environments, behavioural patterns, and individual personality traits. The challenge of addressing cyberbullying is exacerbated by the anonymity prevalent on social media platforms, which enables individuals to adopt multiple personas and target victims with a reduced risk of detection. Through a thorough synthesis of current literature, this paper makes significant contributions to the field of cyberbullying research. We have identified and highlighted two critical gaps: the lack of extensive research on cyberbullying among adults, and the inconsistencies in the definitions of cyberbullying across various studies. These findings underscore the need for a more nuanced and comprehensive approach to understanding and addressing cyberbullying.
+
+Looking forward, future research should prioritize the exploration of cyberbullying in adult demographics, an area that has been notably overlooked. Such studies would provide a more holistic understanding of cyberbullying across different age groups. Furthermore, there is an urgent need for the development of a unified conceptual framework for cyberbullying. This framework should aim to standardize definitions and methodologies, facilitating more consistent and comparative research across studies. Additionally, future research could explore the implications of these definition inconsistencies on policy-making and intervention strategies, ensuring that measures against cyberbullying are effective and inclusive. By addressing these gaps, future research can build on the foundation laid by this review, contributing to more effective strategies for combating cyberbullying and enhancing the well-being of individuals in the digital age.
+Acknowledgements
+
+The authors thank the anonymous reviewers for their valuable suggestions.
+Author contributions
+
+Geraldine Ray (Conceptualization [Lead], Methodology [Lead], Formal analysis [Lead], Writing – Original Draft [Lead]), Christopher D. McDermott (Project administration [Lead], Resources [Supporting], Supervision [Lead], Conceptualization [Supporting], Methodology [Supporting], Validation [Equal], Writing – Review and Editing [Supporting], Mathew Nicho (Conceptualization [Supporting], Methodology [Supporting], Validation [Equal], Writing – Review and Editing [Supporting]).
+Conflict of interest
+
+The authors have no conflicts of interest to disclose.
+Funding
+
+No funding attached.
+Appendix A. Detailed Summary of Cyberbullying Research
+
+		
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Table A1.
+Open in new tab
+
+Overview of cyberbullying definitions, prevalence, and key findings from key studies.
+ 	Cyberbullying overview	Impact and analysis
+Author(s) and year	Cyberbullying definitionsa	Key findings	Prevalenceb	Study limitations
+Abaido [61] – 2020	Use of social media to harass and intimidate others	Significant relationship: media and CB incidents	40% of university students report being cyberbullied	Limited to one geographic region (UAE), self-reported data
+Aboujaoude et al. [8] – 2015	Repeated, intentional harm via electronic communication	Highlights psychological toll of CB on adolescents	20%–40% of adolescents report frequent exposure to CB	Lacks empirical data, primarily a review paper
+Allen and Philips [3] – 2018	In context of anonymity and online communication	Anonymity encourages CB: lack of accountability	30% of participants agree that anonymity increases CB	Limited sample size, focus on anonymity rather than broader CB behaviours
+Barlett et al. [4] – 2018	In context with anonymity and online communication	Anonymity increases likelihood: CB in anonymous sites	25% increase in CB on anonymous platforms	Focuses only on select platforms, lacks longitudinal analysis
+Bastiaensens et al. [49] – 2014	Aggressive behaviour via digital means	Bystanders more likely: reinforce cyberbully than cybervictims	35% of bystanders reported being more likely to reinforce CB	Does not consider the long-term impact of bystander behaviour
+Berne et al. [23] – 2013	Aggressive, repeated actions intent, and harm via technology	Correlation: depressive symptoms among adolescents	20% adolescents report frequent CB	Cross-sectional design, self-report bias, lack of longitudinal data
+Chun et al. [9] – 2020	Defined inconsistently across studies	Measurement inconsistencies across different countries	Prevalence rates varied significantly by measurement tools used	Lack of standardization in measurement tools limits comparability
+Cohen-Almagor [28] – 2018	In context of anonymity and online harassment	Social media anonymity: contributes to the proliferation of CB	30%–50% prevalence, dependent on anonymity	Focus on ethical responsibility, lacks empirical analysis
+Dynel [68] – 2021	Distinguishes CB from mock aggression	Differentiates between CB and mock aggression based on intent	Higher prevalence of mock aggression reported in humorous contexts	Lack of focus on the emotional impact of mock aggression
+Notar et al. [63] – 2013	Repetition, intent, and power imbalance	CB reporting; higher prevalence among females	18% of students	Focus on specific geographic region, sample size limited generalizability
+Ferrara et al. [15] – 2018	A modern form of bullying facilitated by technology	Highlights health and social problems linked to CB	High prevalence of CB among adolescents	Focuses primarily on the health impacts, lacks intervention strategies
+Gajda et al. [42] – 2022	In context of moral disengagement	Moral disengagement: significantly mediates the relationship between: Dark Tetrad and CB	18%–22% prevalence rate depending on Dark Tetrad traits	Cross-sectional design, lacks longitudinal data, limited to one demographic
+Giumetti and Kowalski [11] – 2022	Negative interaction on social media affecting well-being	Linked social media use with decreased well-being in CB victims	15%–30% of users experienced well-being issues due to CB	Focuses on well-being impact, lacks intervention strategies
+Gu et al. [43] – 2022	In context curvilinear relationships victimization/social media	Highlights complex relationships with: previous CB victimization and ongoing social media use	Varied based on user response to CB incidents	Limited by self-report data, does not consider all types of social media use
+Li and Peng [34] – 2022	In the context of strain theory and morality/CB roles	Strain and constraints significant predictors: of CB behaviour	20%–30% involvement in CB behaviours among adolescents	Does not consider other contributing factors beyond strain and morality
+Lo Cricchio et al. [54] – 2021	In the context of moral disengagement	Moral disengagement strongly linked to CB behaviours	15%–25% prevalence among adolescents with high moral disengagement	Focus on moral disengagement, lacks analysis of other personality factors
+Müller et al. [38] – 2018	In the context of social media use/relationship with CB	Measurement Inconsistencies of CB across different countries	15%–25% of participants engaged in cyberbullying behaviours	Longitudinal study, but limited to specific age groups
+Olweus [72] – 2013	In the context of comparative discussion: school bullying/CB	Emphasizes the similarity between traditional bullying and CB.	Prevalence rates varied depending on study, generally high	Focuses on school settings, lacks data on adult victims or other environments
+Olweus and Limber [35] – 2018	Similar to traditional bullying with the addition of technology	15% of students experienced CB more than once	15% of students	Narrow focus on the adolescent population, no data on adult victims
+Patchin and Hinduja [24] – 2015	Intent, repetition/harm conducted on digital platforms	Correlated CB with psychological distress and anxiety	Varied between 10% and 40%, depending on demographics	Lack of diversity in the sample population, regional focus limits generalizability
+Sabella et al. [46] – 2013	Emphasis on anonymity and persistent harassment	Strong link between CB, low self-esteem and anxiety	30% of participants reported CB experiences	Self-report data subject to bias, limited focus on long-term consequences
+Washington [25] – 2015	Use of digital tools to harass, threaten, or humiliate	Higher levels of victimization reported among marginalized groups	35% of marginalized participants experienced CB	Small sample size, limited focus on coping mechanisms
+Watts et al. [26] – 2017	Emphasizes repetitive nature of CB with power imbalance and harm	Social media cyberbullying; higher prevalence in females	25% among social media users	Lack of cross-cultural analysis, no longitudinal follow-up
+This paper – 2024	Repetition, power-imbalance/goal-directed behaviour, intent, and harm	A global phenomenon, influenced by several factors: environmental/social roles/behavioural patterns/personalities/dark personality traits and anonymity versus privacy.	Prevalence rates varied across all studies.	Empirical studies are scarce across the emerging adult/adult population/Intervention/prevention support strategies lacking in young adult/adult studies.
+
+aDefinitions as discussed in the literature (varying across several studies).
+
+bPercentage of participants reporting cyberbullying (varied across studies).
+References
+1.
+
+Squicciarini
+  A
+, Rajtmajer
+  S
+, Griffin
+  C
+ et al.  Positive and negative behavioral analysis in social networks
+. WIREs Data Mining Knowl Discov
+. 2017
+;7
+:e1203
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+2.
+
+Wilkins
+  J
+, Hoover
+  JH
+, Miltenoff
+  P
+ et al.  New communication technologies and the emergence of cyberbullying
+. Int J Interdisc Soc Sci Annu Rev
+. 2007
+;2
+:407
+–12
+.
+
+Google ScholarFind in my library
+
+WorldCat 
+3.
+
+Allen
+  W
+, Philips
+  A
+. Consensus analysis of shared beliefs among young adults about anonymity in social media
+. In: Proceedings of the 9th International Conference on Social Media and Society
+. Copenhagen
+: ACM
+, 2018
+, 13
+–21
+.
+
+Google ScholarCrossref
+Find in my library
+
+Google Preview
+
+WorldCatCOPAC
+ 
+4.
+
+Barlett
+  CP
+, DeWitt
+  CC
+, Maronna
+  B
+ et al.  Social media use as a tool to facilitate or reduce cyberbullying perpetration: a review focusing on anonymous and nonanonymous social media platforms
+. Violence Gender
+. 2018
+;5
+:147
+–52
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+5.
+
+Chan
+  TKH
+, Cheung
+  CMK
+, Lee
+  ZWY
+. Cyberbullying on social networking sites: a literature review and future research directions
+. Inf Manag
+. 2021
+;58
+:103411
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+6.
+
+Polanco-Levicán
+  K
+, Salvo-Garrido
+  S
+. Bystander roles in cyberbullying: a mini-review of who, how many, and why
+. Front Psychol
+. 2021
+;12
+:676787
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+7.
+
+Alavi
+  M
+, Latif
+  AA
+, Ramayah
+  T
+ et al.  Dark tetrad of personality, cyberbullying, and cybertrolling among young adults
+. Curr Psychol
+. 2022
+;42
+:1
+–11
+.
+
+Google ScholarPubMed
+Find in my library
+
+WorldCat 
+8.
+
+Aboujaoude
+  E
+, Savage
+  MW
+, Starcevic
+  V
+ et al.  Cyberbullying: review of an old problem gone viral
+. J Adolesc Health
+. 2015
+;57
+:10
+–8
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+9.
+
+Chun
+  J
+, Lee
+  J
+, Kim
+  J
+ et al.  An international systematic review of cyberbullying measurements
+. Comput Hum Behav
+. 2020
+;113
+:106485
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+10.
+
+Volk
+  AA
+, Dane
+  AV
+, Marini
+  ZA
+. What is bullying? A theoretical redefinition
+. Dev Rev
+. 2014
+;34
+:327
+–43
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+11.
+
+Giumetti
+  GW
+, Kowalski
+  RM
+. Cyberbullying via social media and well-being
+. Curr Opin Psychol
+. 2022
+;45
+:101314
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+12.
+
+Ho
+  SS
+, Chen
+  L
+, Ng
+  APY
+. Comparing cyberbullying perpetration on social media between primary and secondary school students
+. Comput Educ
+. 2017
+;109
+:74
+–84
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+13.
+
+Oksanen
+  A
+, Oksa
+  R
+, Savela
+  N
+ et al.  Cyberbullying victimization at work: social media identity bubble approach
+. Comput Hum Behav
+. 2020
+;109
+:106363
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+14.
+
+Oladimeji
+  A
+, Kyobe
+  M
+. Factors influencing cyberbullying on Instagram among university students
+. In: Proceedings of the 2021 Conference on Information Communications Technology and Society (ICTAS)
+. Durban
+: IEEE
+, 2021
+, 139
+–44
+.
+
+Google ScholarCrossref
+Find in my library
+
+Google Preview
+
+WorldCatCOPAC
+ 
+15.
+
+Ferrara
+  P
+, Ianniello
+  F
+, Villani
+  A
+ et al.  Cyberbullying a modern form of bullying: let’s talk about this health and social problem
+. Ital J Pediatr
+. 2018
+;44
+:14
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+16.
+
+Garett
+  R
+, Lord
+  LR
+, Young
+  SD
+. Associations between social media and cyberbullying: a review of the literature
+. mHealth
+. 2016
+;2
+:46
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+17.
+
+Keles
+  B
+, McCrae
+  N
+, Grealish
+  A
+. A systematic review: the influence of social media on depression, anxiety and psychological distress in adolescents
+. Int J Adoles Youth
+. 2020
+;25
+:79
+–93
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+18.
+
+Brandau
+  MS
+, Sarzosa
+  A
+, Schmillen
+  H
+. Who, when, and how: a comprehensive literature review of adolescent reporting of cyberbullying. J Gen Nurs Comm Health
+. 2019
+;1
+. 10.5281/zenodo.3813039
+
+19.
+
+Cataldo
+  I
+, Lepri
+  B
+, Neoh
+  MJY
+ et al.  Social media usage and development of psychiatric disorders in childhood and adolescence: a review
+. Front Psychiatry
+. 2021
+;11
+:508595
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+20.
+
+Daine
+  K
+, Hawton
+  K
+, Singaravelu
+  V
+ et al.  The power of the web: a systematic review of studies of the influence of the internet on self-harm and suicide in young people
+. PLoS One
+. 2013
+;8
+:e77555
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+21.
+
+Nixon
+  C
+. Current perspectives: the impact of cyberbullying on adolescent health
+. Adoles Health Med Therap
+. 2014
+;5
+:143
+.
+
+Google ScholarFind in my library
+
+WorldCat 
+22.
+
+Twenge
+  JM
+. Increases in depression, self-harm, and suicide among U.S. adolescents after 2012 and links to technology use: possible mechanisms
+. Psychiatr Res Clin Pract
+. 2020
+;2
+:19
+–25
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+23.
+
+Berne
+  S
+, Frisén
+  A
+, Schultze-Krumbholz
+  A
+ et al.  Cyberbullying assessment instruments: a systematic review
+. Aggress Violent Behav
+. 2013
+;18
+:320
+–34
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+24.
+
+Patchin
+  JW
+, Hinduja
+  S
+. Measuring cyberbullying: implications for research
+. Aggress Violent Behav
+. 2015
+;23
+:69
+–74
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+25.
+
+Washington
+  ET
+. An overview of cyberbullying in higher education
+. Adult Learn
+. 2015
+;26
+:21
+–7
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+26.
+
+Watts
+  LK
+, Wagner
+  J
+, Velasquez
+  B
+ et al.  Cyberbullying in higher education: a literature review
+. Comput Hum Behav
+. 2017
+;69
+:268
+–74
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+27.
+
+Olckers
+  C
+, Hattingh
+  M
+. The dark side of social media – cyberbullying, catfishing and trolling: a systematic literature review
+. EPiC Comput
+. 2022
+;84
+:86
+–71
+.
+
+28.
+
+Cohen-Almagor
+  R
+. Social responsibility on the Internet: addressing the challenge of cyberbullying
+. Aggress Violent Behav
+. 2018
+;39
+:42
+–52
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+29.
+
+Sedgwick
+  R
+, Epstein
+  S
+, Dutta
+  R
+ et al.  Social media, internet use and suicide attempts in adolescents
+. Curr Opin Psychiat
+. 2019
+;32
+:534
+–41
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+30.
+
+You
+  L
+, Lee
+  YH
+. The bystander effect in cyberbullying on social network sites: anonymity, group size, and intervention intentions
+. Telematics Informatics
+. 2019
+;45
+:101284
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+31.
+
+Cao
+  B
+, Lin
+  WY
+. How do victims react to cyberbullying on social networking sites? The influence of previous cyberbullying victimization experiences
+. Comput Hum Behav
+. 2015
+;52
+:458
+–65
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+32.
+
+Cunningham
+  S
+, Hudson
+  CC
+, Harkness
+  K
+. Social media and depression symptoms: a meta-analysis
+. Res Child Adoles Psychopathol
+. 2021
+;49
+:241
+–53
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+33.
+
+Marino
+  C
+, Gini
+  G
+, Vieno
+  A
+ et al.  The associations between problematic Facebook use, psychological distress and well-being among adolescents and young adults: a systematic review and meta-analysis
+. J Affect Disord
+. 2018
+;226
+:274
+–81
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+34.
+
+Li
+  W
+, Peng
+  H
+. The impact of strain, constraints, and morality on different cyberbullying roles: a partial test of Agnew’s general strain theory
+. Front Psychol
+. 2022
+;13
+:980669
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+35.
+
+Olweus
+  D
+, Limber
+  SP
+. Some problems with cyberbullying research
+. Curr Opin Psychol
+. 2018
+;19
+:139
+–43
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+36.
+
+Floros
+  G
+, Mylona
+  I
+. Association of cyberbullying and internet use disorder
+. Curr Addict Rep
+. 2022
+;9
+:575
+–88
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+37.
+
+Ghaiumy Anaraky
+  R
+, Freeman
+  G
+, Aragón
+  OR
+ et al.  The dark side of social media: what makes some users more vulnerable than others?
+. In: Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing
+. Austin, TX
+: ACM
+, 2019
+, 185
+–9
+.
+
+Google ScholarCrossref
+Find in my library
+
+Google Preview
+
+WorldCatCOPAC
+ 
+38.
+
+Müller
+  CR
+, Pfetsch
+  J
+, Schultze-Krumbholz
+  A
+ et al.  Does media use lead to cyberbullying or vice versa? Testing longitudinal associations using a latent cross-lagged panel design
+. Comput Hum Behav
+. 2018
+;81
+:93
+–101
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+39.
+
+Orben
+  A
+. Teenagers, screens and social media: a narrative review of reviews and key studies
+. Soc Psychiatr Psychiatr Epidemiol
+. 2020
+;55
+:407
+–14
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+40.
+
+Zych
+  I
+, Ortega-Ruiz
+  R
+, Del Rey
+  R
+. Scientific research on bullying and cyberbullying: where have we been and where are we going
+. Aggress Violent Behav
+. 2015
+;24
+:188
+–98
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+41.
+
+Zych
+  I
+, Ortega-Ruiz
+  R
+, Del Rey
+  R
+. Systematic review of theoretical studies on bullying and cyberbullying: facts, knowledge, prevention, and intervention
+. Aggress Violent Behav
+. 2015
+;23
+:1
+–21
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+42.
+
+Gajda
+  A
+, Moroń
+  M
+, Królik
+  M
+ et al.  The Dark Tetrad, cybervictimization, and cyberbullying: the role of moral disengagement
+. Curr Psychol
+. 2022
+;42
+:23413
+–21
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+43.
+
+Gu
+  C
+, Liu
+  S
+, Chen
+  S
+. Fight or flight? Curvilinear relations between previous cyberbullying victimization experiences and continuous use of social media: social media rumination and distress as chain mediators
+. Behav Sci
+. 2022
+;12
+:421
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+44.
+
+Raskauskas
+  J
+, Huynh
+  A
+. The process of coping with cyberbullying: a systematic review
+. Aggress Violent Behav
+. 2015
+;23
+:118
+–25
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+45.
+
+Page
+  M. J.
+, McKenzie
+  J. E.
+, Bossuyt
+  P. M
+ et al.  Moher, The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+, PLoS Medicine
+. 2021
+;18
+:e1003583
+. 10.1371/journal.pmed.1003583
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+46.
+
+Sabella
+  RA
+, Patchin
+  JW
+, Hinduja
+  S
+. Cyberbullying myths and realities
+. Comput Hum Behav
+. 2013
+;29
+:2703
+–11
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+47.
+
+Quandt
+  T
+, Klapproth
+  J
+, Frischlich
+  L
+. Dark social media participation and well-being
+. Curr Opin Psychol
+. 2022
+;45
+:101284
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+48.
+
+Slonje
+  R
+, Smith
+  PK
+, Frisén
+  A
+. The nature of cyberbullying, and strategies for prevention
+. Comput Hum Behav
+. 2013
+;29
+:26
+–32
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+49.
+
+Bastiaensens
+  S
+, Vandebosch
+  H
+, Poels
+  K
+ et al.  Cyberbullying on social network sites. an experimental study into bystanders’ behavioural intentions to help the victim or reinforce the bully
+. Comput Hum Behav
+. 2014
+;31
+:259
+–71
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+50.
+
+El Asam
+  A
+, Samara
+  M
+. Cyberbullying and the law: a review of psychological and legal challenges
+. Comput Hum Behav
+. 2016
+;65
+:127
+–41
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+51.
+
+Schultze-Krumbholz
+  A
+, Hess
+  M
+, Pfetsch
+  J
+ et al.  Who is involved in cyberbullying? Latent class analysis of cyberbullying roles and their associations with aggression, self-esteem, and empathy
+. Cyberpsychol J Psychosoc Res Cyberspace
+. 2018
+;12
+. 10.5817/CP2018-4-2
+
+Google ScholarFind in my library
+
+WorldCat
+
+Crossref 
+52.
+
+Scott
+  H
+, Woods
+  HC
+. Understanding links between social media use, sleep and mental health: recent progress and current challenges
+. Curr Sleep Med Rep
+. 2019
+;5
+:141
+–9
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+53.
+
+Longobardi
+  C
+, Settanni
+  M
+, Fabris
+  MA
+ et al.  Follow or be followed: exploring the links between Instagram popularity, social media addiction, cyber victimization, and subjective happiness in Italian adolescents
+. Child Youth Serv Rev
+. 2020
+;113
+:104955
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+54.
+
+Lo Cricchio
+  MG
+, García-Poole
+  C
+, te Brinke
+  LW
+ et al.  Moral disengagement and cyberbullying involvement: a systematic review
+. Eur J Dev Psychol
+. 2021
+;18
+:271
+–311
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+55.
+
+Menin
+  D
+, Guarini
+  A
+, Mameli
+  C
+ et al.  Was that (cyber)bullying? Investigating the operational definitions of bullying and cyberbullying from adolescents’ perspective
+. Int J Clin Health Psychol
+. 2021
+;21
+:100221
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+56.
+
+Vivolo-Kantor
+  AM
+, Martell
+  BN
+, Holland
+  KM
+ et al.  A systematic review and content analysis of bullying and cyber-bullying measurement strategies
+. Aggress Violent Behav
+. 2014
+;19
+:423
+–34
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+57.
+
+Foody
+  M
+, Samara
+  M
+, Carlbring
+  P
+. A review of cyberbullying and suggestions for online psychological therapy
+. Internet Intervent
+. 2015
+;2
+:235
+–42
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+58.
+
+Peluchette
+  JV
+, Karl
+  K
+, Wood
+  C
+ et al.  Cyberbullying victimization: do victims’ personality and risky social network behaviors contribute to the problem?
+. Comput Hum Behav
+. 2015
+;52
+:424
+–35
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+59.
+
+Gahagan
+  K
+, Vaterlaus
+  JM
+, Frost
+  LR
+. College student cyberbullying on social networking sites: conceptualization, prevalence, and perceived bystander responsibility
+. Comput Hum Behav
+. 2016
+;55
+:1097
+–105
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+60.
+
+Rosenthal
+  SR
+, Buka
+  SL
+, Marshall
+  BDL
+ et al.  Negative experiences on facebook and depressive symptoms among young adults
+. J Adolesc Health
+. 2016
+;59
+:510
+–6
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+61.
+
+Abaido
+  GM
+. Cyberbullying on social media platforms among university students in the United Arab Emirates
+. Int J Adoles Youth
+. 2020
+;25
+:407
+–20
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+62.
+
+Boland
+  JK
+, Anderson
+  JL
+. The role of personality psychopathology in social network site behaviors
+. Person Indiv Diff
+. 2019
+;151
+:109517
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+63.
+
+E. Notar
+  C
+, Padgett
+  S
+, Roden
+  J
+. Cyberbullying: a review of the literature
+. Univ J Educ Res
+. 2013
+;1
+:1
+–9
+.
+
+Google ScholarFind in my library
+
+WorldCat 
+64.
+
+Dredge
+  R
+, Gleeson
+  J
+, de la Piedad Garcia
+  X
+. Cyberbullying in social networking sites: an adolescent victim’s perspective
+. Comput Hum Behav
+. 2014
+;36
+:13
+–20
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+65.
+
+Cortis
+  K
+, Handschuh
+  S
+. Analysis of cyberbullying tweets in trending world events
+. In: Proceedings of the 15th International Conference on Knowledge Technologies and Data-driven Business
+. Graz
+: ACM
+, 2015
+, 1
+–8
+.
+
+Google ScholarCrossref
+Find in my library
+
+Google Preview
+
+WorldCatCOPAC
+ 
+66.
+
+Fayaz
+  H
+, Khalique
+  A
+. A review on sociological impacts of social networking
+. Int J Eng Appl Sci Technol
+. 2016
+;1
+:6
+–12
+.
+
+67.
+
+Robinson
+  J
+, Cox
+  G
+, Bailey
+  E
+ et al.  Social media and suicide prevention: a systematic review: suicide prevention and social media
+. Early Intervent Psychiatry
+. 2016
+;10
+:103
+–21
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+68.
+
+Dynel
+  M
+. Humour and (mock) aggression: distinguishing cyberbullying from roasting
+. Lang Commun
+. 2021
+;81
+:17
+–36
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+69.
+
+Schade
+  EC
+, Voracek
+  M
+, Tran
+  US
+. The nexus of the dark triad personality traits with cyberbullying, empathy, and emotional intelligence: a structural-equation modeling approach
+. Front Psychol
+. 2021
+;12
+:659282
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+70.
+
+Zhao
+  L
+, Yu
+  J
+. A meta-analytic review of moral disengagement and cyberbullying
+. Front Psychol
+. 2021
+;12
+:681299
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+71.
+
+Nesi
+  J
+, Burke
+  TA
+, Bettis
+  AH
+ et al.  Social media use and self-injurious thoughts and behaviors: a systematic review and meta-analysis
+. Clin Psychol Rev
+. 2021
+;87
+:102038
+.
+
+Google ScholarCrossref
+Find in my library
+PubMed
+
+WorldCat 
+72.
+
+Olweus
+  D
+. School bullying: development and some important challenges
+. Ann Rev Clin Psychol
+. 2013
+;9
+:751
+–80
+.
+
+Google ScholarCrossref
+Find in my library
+
+WorldCat 
+© The Author(s) 2024. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited.

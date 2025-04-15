@@ -1,0 +1,76 @@
+This Week's Top 5 Stories in Cybersecurity
+By Matt High
+April 11, 2025
+6 mins
+Share
+OpenAI has invested in AI-powered cybersecurity firm Adaptive Security. Pictured: Sam Altman, Open AI CEO (Image credit: Getty)
+Cyber Magazine highlights the week's top stories, including OpenAI's cyber investment, Fortinet's AI upgrades and Palo Alto Networks
+Adaptive Security: Inside OpenAI’s First Cyber Investment
+
+OpenAI's Startup Fund is one of several investors in AI-powered cybersecurity startup Adaptive Security, which helps mitigate social engineering attacks.
+
+Innovation is a double-edge sword for businesses, particularly when it comes to cybersecurity. 
+
+On the one hand, technologies like Gen AI bring huge advantages to organisational security providing greater threat identification and intelligence, accelerated response and detection capabilities, and a more predictive and proactive security posture.
+
+But, there’s a catch. AI and Gen AI are being leveraged by malicious actors at speed, who can use them to create more sophisticated and targeted phishing, deepfake and malware attacks. 
+
+ChatGPT maker OpenAI knows this more the most. The company, one of the biggest Gen AI startups around, is a leader in the technology as a result of pioneering research and breakthroughs, as well as its focus on innovation and advancing AI for societal good. 
+
+The business has now stepped into the cybersecurity space for the first time, investing in Adaptive Security, a cybersecurity firm specialising in AI-powered social engineering prevention. 
+Fortinet Enhances Cybersecurity with AI-Led Upgrades
+Fortinet expands FortiAI across its security fabric platform (Credit: Fortninet)
+
+Modern cyber threats are increasing in volume, speed and sophistication, meaning they often outpace human response.
+
+Organisations must embrace AI in cyber defence to enable automated responses, real-time threat detection and the identification of unknown attacks through behavioural analysis. 
+
+In light of this, Fortinet has announced vital improvements to its FortiAI technologies, now integrated across the Fortinet Security Fabric platform.
+
+These updates will ensure the safe use of AI within organisations, boost cyber protection and automate security and network operations.
+
+Michael Xie, Founder, President and Chief Technology Officer at Fortinet, explains: “Fortinet’s AI advantage stems from the breadth and depth of our AI ecosystem—shaped by over a decade of AI innovation and reinforced by more patents than any other cybersecurity vendor.
+
+“By embedding FortiAI across the Fortinet Security Fabric platform, including new agentic AI capabilities, we’re empowering our customers to reduce the workload on their security and network analysts while improving the efficiency, speed and accuracy of their security and networking operations.
+
+“In parallel, we’ve added coverage across the Fabric ecosystem to enable customers to monitor and control the use of GenAI-enabled services within their organisation.”
+Google's Sec-Gemini v1 Uses AI to Boost Cyber Defences
+Google announces the launch of Sec-Gemini v1 (Credit: Google)
+
+The cybersecurity threat landscape is growing in complexity as the increased use of remote work, cloud systems and open-source software has widened the attack surface significantly. As a result, organisations face threats from a broader range of actors than ever before.
+
+These complications result in a defender-attacker asymmetry, where attacks only have to exploit one weakness and defenders must attempt to protect all systems simultaneously.
+
+With this in mind, Google has announced the launch of its new experimental AI model that helps mitigate some of the strain security teams face from this imbalance  – Sec-Gemini v1.
+
+This model will integrate near-real-time cybersecurity knowledge and tooling with Gemini’s advanced capabilities to pioneer the greater use of AI in cybersecurity.
+Behind Palo Alto Networks’ Success With Google Cloud
+Palo Alto Networks' office in Singapore (Credit: Palto Alto Networks)
+
+Palo Alto Networks has reached a significant milestone in its mission to secure cloud and AI adoption globally – exceeding US$1.5bn in cumulative sales through Google Cloud Marketplace.
+
+The extensive collaboration supports customers to run, build and secure AI-enhanced cloud infrastructure and applications with end-to-end protection through 75 solution integrations from jointly engineered offerings.
+
+This milestone demonstrates the rise in demand for AI-led cybersecurity solutions as organisations adopt cloud-first strategies.
+
+Kristy Friedrichs, Chief Partnerships Officer at Palo Alto Networks, explains: “With Google Cloud, we combine their AI/ML capabilities with Palo Alto Networks industry-leading security platforms to provide a comprehensive suite of AI-driven security offerings."
+Xalient: How Digital Twins are Revolutionising Cybersecurity
+From healthcare to finance, Digital Twins are enabling resilience, innovation and agility
+
+Digital Twins, virtual replicas of physical objects, systems, or processes, have been steadily gaining traction in the technology sector, particularly in security and networking.
+
+These sophisticated models have the potential to revolutionise cybersecurity and network management by offering a dynamic, real-time and comprehensive approach to managing, optimising and securing complex systems. 
+
+McKinsey & Company underscores that Digital Twins have become indispensable business tools for leading companies and are poised to become pivotal in optimising processes and decision-making across every industry.
+
+The intrinsic value of Digital Twins lies in their ability to provide a real-time copy of an environment, enabling security and networking teams to test and manipulate scenarios without impacting the live environment.
+
+The recent evolution of these tools incorporates Gen AI, empowering teams without specific network or security expertise to query the models.
+
+They also offer a sandbox for testing new tools and technologies, allowing teams to assess their impact on the environment without compromising operational resilience.
+
+Explore the latest edition of Cyber Magazine and be part of the conversation at our global conference series, Tech & AI LIVE and Cyber LIVE.
+
+Discover all our upcoming events and secure your tickets today.
+
+Cyber Magazine is a BizClik brand 
